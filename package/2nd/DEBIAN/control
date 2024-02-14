@@ -1,0 +1,15 @@
+Package: com.2nd.34306
+Name: 2nd
+Depends: mobilesubstrate
+Description: A simple tweak that enable day and date secondline in status bar
+Maintainer: SileoTweak 
+Author: 34306
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 152
+Size: 5692
+MD5: ab9e8a0dd5d58e8727727c6196d7097b
+SHA1: 1557da3db532c4f60d79b60438ad5791c53307d8
+SHA256: 43825d88e238aa09abed2ef42352e10257ff75f6b752136ba96b8058a80c3b6d
+Filename: ./package/2nd/com.34306.2nd_1.0_iphoneos-arm64.deb
