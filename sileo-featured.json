@@ -1,11 +1,11 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{380, 180}",
+  "itemSize": "{350, 150}",
   "itemCornerRadius": 10,
   "banners": [
     {
         "url": "https://dobabaophuc1706.github.io/repo/assets/images/banner.png",
-        "title": "",
+        "title": "PhucDo's Repo",
         "package": "",
         "hideShadow": false
     },
