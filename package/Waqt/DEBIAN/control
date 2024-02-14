@@ -1,0 +1,20 @@
+Package: com.SileoTweak.waqt
+Name: Waqt
+Depends: mobilesubstrate, preferenceloader
+Description: Know more than just the current time!
+Maintainer: SileoTweak
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Installed-Size: 412
+Size: 31988 
+Depiction: https://sileotweak.github.io/Sileo-Depiction-WebViews/?json=https://sileotweak.github.io/package/Waqt/SileoDepiction.json&name=Waqt&dev=P2KDev
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
+SileoDepiction: https://sileotweak.github.io/package/Waqt/SileoDepiction.json
+Filename: ./package/Waqt/com.p2kdev.waqt_1.2.2_iphoneos-arm64.deb
+MD5: dc80e9240fb93bef7d74373d4f1b4a4c
+SHA1:
+2328e3ec0fed40168f3c0252850971011dba484c
+SHA256: 2d1d4d2ab100516d82121317867763292afdbb1fa0dcb396cd58bd0c19bd4305
+

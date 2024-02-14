@@ -1,0 +1,57 @@
+<tweak>
+
+<tweakName>
+Network Speed
+</tweakName>
+<tweakShortDescription>
+internet speed indicator
+</tweakShortDescription>
+<tweakDescription>
+Supports the majority of stock iOS apps.\n\n
+This is a proof of concept for Anemone!\n
+\n
+Includes features: \n
+• Download Speed \n
+• Upload Speed \n
+• Gisture apps
+</tweakDescription>
+
+<tweakSize>
+478 KB
+</tweakSize>
+<tweakCategory>
+Tweaks
+</tweakCategory>
+<tweakCompatibility>
+iOS 15.0 to iOS 16.4 
+</tweakCompatibility>
+<tweakVersion>
+3.0.6
+</tweakVersion>
+<tweakUpdateDate>
+2023/5/14
+</tweakUpdateDate>
+
+<tweakDeveloper>
+MALIK M
+</tweakDeveloper>
+<tweakDevTwitter>
+@cydia05
+</tweakDevTwitter>
+<tweakDevTwitterPic>
+https://pbs.twimg.com/profile_images/1503135375526662144/Cy4VEKAL_400x400.jpg
+</tweakDevTwitterPic>
+<tweakDevTwitterURL>
+https://twitter.com/cydia05
+</tweakDevTwitterURL>
+
+<tweakChangelog>
+• Add English language
+• Add English language 
+</tweakChangelog>
+
+<numOfScreenshots>
+4
+</numOfScreenshots>
+
+</tweak>

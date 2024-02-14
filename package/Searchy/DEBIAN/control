@@ -1,0 +1,16 @@
+Package: com.miro.searchy
+Name: Searchy
+Depends: firmware (>=13.0), mobilesubstrate
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.searchy
+Description: Adds a search bar into the "Recents" tab in the Phone app.
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Version: 1.0.2
+Installed-Size: 168
+Size: 7776
+MD5: e6671c025180749c2868642026de85ae
+SHA1: ff5bd11a56f74433fb9ce365a639aadc1e2533c4
+SHA256: e0bdf228855847c3b187d8e154fb21e40cf76b770edbb030a1ff8f4c0907dd47

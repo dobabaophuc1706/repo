@@ -1,0 +1,130 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sileotweak.github.io/package/NoAdsSocialApps/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+               
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# NoAdsSocialApps\r\n### Remove Ads from entry social media apps Facebook, Twitter and Instagram.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Information"
+                },
+                {
+                    "text": "Free",
+                    "title": "Lisence",
+                    "class": "DepictionTableTextView"
+                },
+
+             
+                {
+                    "text": "SileoTweak",
+                    "title": "Maintainer",
+                    "class": "DepictionTableTextView"
+                },
+
+
+                {
+                    "text": "PK2Dev",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+
+              
+                {
+                    "text": "124 KB",
+                    "title": "Size",
+                    "class": "DepictionTableTextView"
+                },
+
+
+                {
+                    "text": "Tweaks",
+                    "title": "Section",
+                    "class": "DepictionTableTextView"
+                },
+
+
+                {
+                    "text": "15.0-15.4.1",
+                    "title": "iOS Version",
+                    "class": "DepictionTableTextView"
+                },
+
+
+                
+                {
+                    "class": "DepictionSeparatorView"
+                },
+
+
+                
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Sources"
+                },
+
+
+                {
+                    "title":"Orginal Repository",
+                    "tintColor":"#1da1f2",
+                    "action":"https://pk2dev.github.io/repo",
+                    "class": "DepictionTableButtonView"
+                },  
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#1da1f2",
+                    "action":"https://sileotweak.github.io/Sileo-Depiction-WebViews/?json=https://sileotweak.github.io/package/NoAdsSocialApps/SileoDepiction.json&name=NoAdsSocialApps&dev=PK2Dev",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title":"Twitter",
+                    "tintColor":"#1da1f2",
+                    "action":"https://twitter.com/cydia05",
+                    "class": "DepictionTableButtonView"
+                },
+                
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+
+
+                {
+                    "URL": "https://sileotweak.github.io/CydiaIcon.png",
+                    "width": 40,
+                    "height": 40,
+                    "alignment": 1,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
+                  },
+                  {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">SileoTweak Repository ©2020-2023</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+                
+            ]
+        }
+    ],
+    "tintColor": "#fe0000",
+    "minVersion": "0.1"
+}

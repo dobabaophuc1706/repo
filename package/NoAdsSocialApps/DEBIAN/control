@@ -1,0 +1,16 @@
+Package: com.noads.me
+Name: NoAdsSocialApps
+Depends: mobilesubstrate
+Description: Remove Ads from entry social media apps Facebook, Twitter and Instagram
+Maintainer: SileoTweak 
+Author: PK2Dev
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 460
+Size: 12436
+MD5: 5b9f9a00ede159df88a66d1b635d338e
+SHA1:108f798504778540b8c41233cf14e726c89ff68d
+SHA256: 25eecb75c1c40f0d562ddaa2a9975ee282c32cb3d355a3cd08eeb46c24cc8b9b
+Filename: ./package/NoAdsSocialApps/com.noads.me_1.0_iphoneos-arm64.deb
+

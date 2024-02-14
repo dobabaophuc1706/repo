@@ -1,0 +1,17 @@
+Package: com.lenglengyu.storeswitcher
+Name: StoreSwitcher
+Depends: firmware (>= 15), mobilesubstrate
+Architecture: iphoneos-arm64
+Description: Switching between Appstore Accounts easily.
+Maintainer: SileoTweak <https://sileotweak.github.io>
+Author: subdiox
+Section: Tweaks
+Depiction: https://repo.lenglengyu.top/packageInfo/storeswitcher2-rootless.html
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/storeswitcher2-rootlesssileo
+Version: 1.0.2
+Installed-Size: 424
+Size: 73192
+Filename: ./package/StoreSwitcher/com.lenglengyu.storeswitcher_1.0.2_iphoneos-arm64.deb
+MD5: 0084da41eef750bea7eb4cecb4ad81f5
+SHA1: 5e2fddb22da7b93eee73123ee7ee586aa10c876f
+SHA256: 520209c7dd72ceb183c9630590e3d59fb867756ce498f4434a71591036121c1b

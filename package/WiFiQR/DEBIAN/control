@@ -1,0 +1,18 @@
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifiqrDp
+Depiction: https://sileotweak.github.io/Sileo-Depiction-WebViews/?json=https://sileotweak.github.io/package/WiFiQR/SileoDepiction.json&name=WiFiQR&dev=KingPuffdaddi
+SileoDepiction: https://sileotweak.github.io/package/WiFiQR/SileoDepiction.json
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Maintainer: SileoTweak
+Name: WiFiQR
+Package: com.SileoTweak.wifiqr
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Section: Tweaks
+Installed-Size: 388
+Size: 26600 
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Description: Generate a QR code for WiFi networks directly from the settings
+MD5: c108f93fb6e2cdc9322dc3bb142202d5
+SHA1: b43530d55eaa931be7796aec5ff4b402a3ac909d
+SHA256: 9484d086d9c663d648a0b24c9d4ddc83c0f48fe1dea74e3eca3c4fc13a2bd946
+Filename: ./package/WiFiQR/com.SileoTweak.wifiqr_1.1.1_iphoneos-arm64.deb

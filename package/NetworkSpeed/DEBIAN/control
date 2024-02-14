@@ -1,0 +1,16 @@
+Package: com.johnzaro.networkspeed13
+Section: Tweaks
+Installed-Size: 880
+Maintainer: SileoTweak
+Architecture: iphoneos-arm64
+Version: 3.0.8
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 12), libcolorpicker
+Description: Indicates states of Speed data on the stutesbar
+Name: NetworkSpeed
+Author: Johnzaro & lclrc
+SileoDepiction: https://sileotweak.github.io/package/NetworkSpeed/SileoDepiction.json
+Size: 504346
+MD5: 7edfbe59ba30eac29260ad5fed542cb1
+SHA1: 3d5349c7f4653265eaaa53343bfc0e055f934669
+SHA256: 8cb48cb0202622eb87e9cb2540db645cb79cf88415784a5504f1cd03d93ee31c
+Filename: ./package/NetworkSpeed/com.johnzaro.networkspeed13_3.0.8.deb

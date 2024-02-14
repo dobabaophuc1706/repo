@@ -1,0 +1,19 @@
+Name: Wolf 
+Package: com.lema.wolf
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 2.1
+Architecture: iphoneos-arm64
+Description: The all-in-one tweak for Facebook
+Depiction: http://sileotweak.github.io/depiction/?Wolf
+SileoDepiction: https://sileotweak.github.io/package/Wolf/SileoDepiction.json
+Maintainer: sileotweak <eng.srg@icloud.com>
+Author: Michael Lema <samewhitetee@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 12212
+dev: lema
+Size: 2790372
+Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
+MD5: 8ebf41b7ecf8145466ea808cc8e659b5
+SHA256: 69670c0346aff8968af427d0f99237f8d46c7f9f7565370cd158856829184ae9

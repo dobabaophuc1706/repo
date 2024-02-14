@@ -1,0 +1,15 @@
+Package: com.hoangdus.lowpowersleep
+Name: LowPowerSleep
+Description: Auto Enabe to LowPower when Screen locked 
+Maintainer: Hoangdus
+Author: Hoangdus
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 208
+Size: 23054
+Filename: ./package/LowPowerSleep/com.hoangdus.lowpowersleep_0.0.1_iphoneos-arm64.deb
+MD5: 5a441627888c90248507880b79619d07
+SHA1: 084dbf595eed5ef33dc110f2818dcf7649aa3d25
+SHA256: 0acb801878ffa7cb928225ae77c5299d595bdd78ba3c5a0b8098f936932ed696

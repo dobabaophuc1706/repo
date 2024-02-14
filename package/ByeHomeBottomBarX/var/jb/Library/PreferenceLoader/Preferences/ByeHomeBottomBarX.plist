@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = ByeHomeBottomBarX;
+	cell = PSLinkCell;
+	detail = ByeHomeBottomBarXListController;
+	icon = ByeHomeBottomBarX.png;
+	isController = 1;
+	label = ByeHomeBottomBarX;
+    };
+}

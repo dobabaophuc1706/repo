@@ -1,0 +1,15 @@
+Package: netskao.lowpowerbannertips.me
+Version: 1.1-3
+Section: Netskao-Tweaks
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Installed-Size: 200
+Name: LowPowerBannerTips
+Author: Netskao
+Description: Replace LowPower window with notification banner on higher the screen
+Filename: ./package/LowPowerBannerTips/netskao.lowpowerbannertips-rootless_1.1-3_iphoneos-arm64.deb
+size: 14508
+MD5: 87cc79c3be11cf1a7b29b640e2be9ec1
+SHA1: 8e1b84a9cd33c24948a205253a0bdf6745523284
+SHA256: f5156a8b67d3c5245596c1ffc6002fde7b8ccedb6658770b577b92429b5c9ae7

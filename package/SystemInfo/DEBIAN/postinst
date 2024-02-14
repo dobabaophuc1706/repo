@@ -1,0 +1,11 @@
+#!/bin/sh
+chown 0:0 /usr/bin/nvnonce
+chmod +x /usr/bin/nvnonce
+chmod u+s /usr/bin/nvnonce
+chown 0:0 /usr/bin/iofbres
+chmod +x /usr/bin/iofbres
+chmod u+s /usr/bin/iofbres
+if [ -f /xyz.xninja.systeminfo_2.7.2-1_iphoneos-arm.deb ]; then
+   echo "redundant file from previous installation found; removing it"
+   rm /xyz.xninja.systeminfo_2.7.2-1_iphoneos-arm.deb
+fi

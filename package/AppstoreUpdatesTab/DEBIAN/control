@@ -1,0 +1,19 @@
+Architecture: iphoneos-arm64
+Package: com.johnzaro.appstoreupdatestab13
+Name: AppStoreUpdatesTab
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.appstoreupdatestab13.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.appstoreupdatestab13.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.appstoreupdatestab13.json
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.appstoreupdatestab13/icon.png
+Description: Replace Arcade button with "Show Updates" button in the AppStore app
+Section: Tweaks
+Depends: firmware (>=13.0), mobilesubstrate
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Version: 1.2
+Installed-Size: 172
+Size: 6912
+MD5: 0853f4f2e4774bc3345f8a3b771bccc7
+SHA1: 756aba581522e45f22774f3dad0abe461d3bbf24
+SHA256: 46bc1bda4c5734423e87fce09de9306f970e612cdf56b5b24244ad523d1c229f

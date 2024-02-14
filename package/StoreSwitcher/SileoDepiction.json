@@ -1,0 +1,130 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sileotweak.github.io/package/StoreSwitcher/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+               
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# StoreSwitcher\r\n###  Switching between Appstore Accounts easily.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Information"
+                },
+                {
+                    "text": "Free",
+                    "title": "License",
+                    "class": "DepictionTableTextView"
+                },
+
+             
+                {
+                    "text": "SileoTweak",
+                    "title": "Maintainer",
+                    "class": "DepictionTableTextView"
+                },
+
+
+                {
+                    "text": "Subdiox",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+
+              
+                {
+                    "text": "424 KB",
+                    "title": "Installed-Size",
+                    "class": "DepictionTableTextView"
+                },
+
+
+                {
+                    "text": "Tweaks",
+                    "title": "Section",
+                    "class": "DepictionTableTextView"
+                },
+
+
+                {
+                    "text": "15.0-15.4.1",
+                    "title": "iOS Version",
+                    "class": "DepictionTableTextView"
+                },
+
+
+                
+                {
+                    "class": "DepictionSeparatorView"
+                },
+
+
+                
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Sources"
+                },
+
+
+                {
+                    "title":"Orginal Repository",
+                    "tintColor":"#1da1f2",
+                    "action":"https://xiangfeidexiaohuo.github.io/",
+                    "class": "DepictionTableButtonView"
+                },  
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#1da1f2",
+                    "action":"https://sileotweak.github.io/Sileo-Depiction-WebViews/?json=https://sileotweak.github.io/package/StoreSwitcher/SileoDepiction.json&name=StoreSwitcher&dev=subdiox",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title":"Twitter",
+                    "tintColor":"#1da1f2",
+                    "action":"https://twitter.com/cydia05",
+                    "class": "DepictionTableButtonView"
+                },
+                
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+
+
+                {
+                    "URL": "https://sileotweak.github.io/CydiaIcon.png",
+                    "width": 40,
+                    "height": 40,
+                    "alignment": 1,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
+                  },
+                  {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">SileoTweak Repository ©2020-2023</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+                
+            ]
+        }
+    ],
+    "tintColor": "#1a9af3",
+    "minVersion": "0.1"
+}

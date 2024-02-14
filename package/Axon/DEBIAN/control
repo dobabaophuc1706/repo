@@ -1,0 +1,15 @@
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Description: Priority Hub for iOS 15 (rootless/Ellekit)
+Maintainer: Baw Appie
+Author: Nepeta & Baw Appie
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4-1
+Installed-Size: 644
+Size: 140762
+MD5: b23cb378d16ef6ed8bb7553fd2af16cf
+SHA1: 0d45fd68eec361771fc13af38d38da365d8013a6
+SHA256: 71820fd713ee6035b24cbcd41841aadc42bd4387332151ec8864435fa2e10ef6

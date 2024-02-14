@@ -1,0 +1,20 @@
+Name: ByeHomeBottomBarX
+Package: com.cydiageek.byehomebottombarx
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
+Version: 1.3.4-1
+Architecture: iphoneos-arm64
+Description: Remove/Fade Away the Ugly Home Bottom Bar of the iPhone X!
+SileoDepiction: http://sileotweak.github.io/package/ByeHomeBottomBarX/SileoDepiction.json
+Depiction: https://sileotweak.github.io/Sileo-Depiction-WebViews/?json=https://sileotweak.github.io/package/ByeHomeBottomBarX/SileoDepiction.json&name=ByeHomeBottonBarX&dev=CydiaGeek
+Maintainer: SileoTweak
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 557
+Size: 83968
+MD5: 0a2d02c3501ee5069a9a9458ed613bdd
+SHA1: f507534f108f9419cae8443d97ce0438429e5fcc
+SHA256: cab902b22b7ee9de3eabe32401213d444a27863e7d13090595efb47ac5ca9eba
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/ByeHomeBottomBarX.bundle/ByeHomeBottomBarX@2x.png

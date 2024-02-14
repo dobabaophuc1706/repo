@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k1Enabled</string>
+			<key>label</key>
+			<string>Remove the Home Bar</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k13Enabled</string>
+			<key>label</key>
+			<string>No Home Bar Only In Landscape</string>
+		</dict>
+		<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k2Enabled</string>
+			<key>label</key>
+			<string>Fade Away the Home Bar</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k3Enabled</string>
+			<key>label</key>
+			<string>Remove Home Bar on LS/NC</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k4Enabled</string>
+			<key>label</key>
+			<string>Enable Edge Protect Feature</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k5Enabled</string>
+			<key>label</key>
+			<string>Fit Home Bar to Bottom App Screen</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k10Enabled</string>
+			<key>label</key>
+			<string>Make Tiny the Home Bar</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k12Enabled</string>
+			<key>label</key>
+			<string>Make Tiny/Vertical the Home Bar</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k11Enabled</string>
+			<key>label</key>
+			<string>Make Bold/Dot the Home Bar</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k6Enabled</string>
+			<key>label</key>
+			<string>Disable Home Bar Blur</string>
+		</dict>
+<dict>
+	<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k9Enabled</string>
+			<key>label</key>
+			<string>Hide Reachability Home Bar</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Extend the option to Remove the Home Bar in Missing Apps! 
+
+It may Cause Issue Closing/Launching the Switcher from Full Landscape Apps such as Games.</string>
+	 <key>footerAlignment</key>
+	 <string>1</string>
+		</dict>
+		<dict>
+<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k7Enabled</string>
+			<key>label</key>
+			<string>Enable!</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Remove Home Bar on the Control Center! 
+
+In order to Dismiss the CC Just Swipe a Little Upper.</string>
+	 <key>footerAlignment</key>
+	 <string>1</string>
+		</dict>
+		<dict>
+<key>PostNotification</key> <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>			<string>com.cydiageek.byehomebottombarx</string>
+			<key>key</key>
+			<string>k8Enabled</string>
+			<key>label</key>
+			<string>Enable!</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+			<string>You can Select Custom Colors for the Home Bottom Bar on the System Wide!</string>
+</dict>
+<dict>
+  <key>PostNotification</key>  <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>      <string>com.cydiageek.byehomebottombarx</string>
+      <key>key</key>
+      <string>isColorEnabled</string>
+      <key>label</key>
+      <string>Enable Home Bottom Bar Tint</string>
+    </dict>
+<dict>
+           <key>cell</key>
+           <string>PSLinkCell</string>
+           <key>cellClass</key>
+           <string>PFSimpleLiteColorCell</string>
+           <key>label</key>
+           <string>Select Home Bottom Bar Color</string>
+           <key>libcolorpicker</key>
+           <dict>
+               <key>PostNotification</key>
+               <string>com.cydiageek.byehomebottombarx.prefschanged</string>
+               <key>alpha</key>
+               <false/>
+               <key>defaults</key>              <string>com.cydiageek.byehomebottombarx</string>
+               <key>fallback</key>
+               <string>#000000</string>
+               <key>key</key>
+               <string>homebarColor</string>
+           </dict>
+       </dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>No Respring Needed for enabling and disabling the options of the Tweak!
+
+May be Required to Respring in Case for Refreshing Preferences.</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+		</dict>
+<dict>
+		       <key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Take Change</string>
+			<key>footerText</key>
+			<string>Respring to apply any Changes if Required!</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+		</dict> 
+<dict>
+	 <key>action</key>
+	 <string>showRespringPrompt</string>
+	 <key>cell</key>
+	 <string>PSButtonCell</string>
+	 <key>label</key>
+	 <string>Respring ✳️</string>
+       <key>footerAlignment</key>
+	 <string>1</string>
+</dict>
+	<dict>
+	 <key>cell</key>
+	 <string>PSGroupCell</string>
+	 <key>label</key>
+	 <string>Contacts ❤️️</string>
+	 <key>footerAlignment</key>
+	 <string>1</string>
+	 <key>footerText</key>
+	 <string>ByeHomeBottomBarX © 2018 by Luca Geek (@CydiaGeek), enjoy it.
+
+Icon made by Freepik.</string>
+	</dict>
+ <dict>
+ <key>cell</key>
+ <string>PSButtonCell</string>
+ <key>action</key>
+ <string>twitter</string>
+<key>icon</key>
+ <string>twitter.png</string>
+<key>footerAlignment</key>
+<string>1</string>
+ <key>label</key>
+ <string>Follow me on Twitter 🌐</string>
+	</dict>
+<dict>
+ <key>cell</key>
+ <string>PSButtonCell</string>
+ <key>action</key>
+ <string>visitWebsite:</string>
+<key>icon</key>
+<string>Website.png</string>
+<key>footerAlignment</key>
+<string>1</string>
+<key>label</key>
+ <string>Add My Repo on Cydia 📦</string>
+  </dict>
+<dict>
+	<key>action</key>
+	<string>payme</string>
+       <key>icon</key>
+       <string>paypal.png</string>
+	<key>cell</key>
+	<string>PSButtonCell</string>
+       <key>footerAlignment</key>
+       <string>1</string>
+	<key>label</key>
+	<string>Cheers a Beer 🍻</string>
+</dict>
+<dict>
+            <key>action</key>
+            <string>sendEmail</string>
+            <key>icon</key>
+            <string>mail.png</string>
+            <key>cell</key>
+            <string>PSButtonCell</string>
+           <key>footerAlignment</key>
+           <string>1</string>
+            <key>label</key>
+            <string>Email Me ✉️</string>
+        </dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+<key>footerAlignment</key>
+<string>1</string>
+<key>label</key>
+<string>Other Tweaks by Me:</string>
+</dict>
+<dict>
+<key>action</key>
+<string>ABetterPrivacyforWhatsApp</string>
+<key>cell</key>
+<string>PSLinkCell</string>
+<key>footerAlignment</key>
+<string>1</string>
+<key>label</key>
+<string>My Tweaks on BigBoss Repo 🛠</string>
+</dict>
+</array>
+	<key>title</key>
+	<string>ByeHomeBottomBarX</string>
+</dict>
+</plist>

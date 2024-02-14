@@ -1,0 +1,17 @@
+Package: me.sileotweak.spotilife
+Name: Spotilife 
+Author: julioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Maintainer: SileoTweak
+Version: 1.8
+Installed-Size: 617
+Size: 104408
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: https://sileotweak.github.io/depiction/?Spotilife
+SileoDepiction: https://sileotweak.github.io/package/Spotilife/SileoDepiction.json
+Architecture: iphoneos-arm64
+Icon: https://sileotweak.github.io/depiction/Spotilife.png
+MD5: 68d02332000e9c76bd8f7f90dd583dee
+SHA1: 6a8ef9b2ee001fe13c803ef9d9c39dbaa5cd2545
+SHA256: dbebae8152c4bd8400e5c461ef3be0d455571b3b7dd24a8f671d1911bf828295
