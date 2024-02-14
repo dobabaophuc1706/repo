@@ -1,0 +1,14 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{380, 180}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "http://roothide.github.io/about.png",
+        "title": "",
+        "package": "",
+        "hideShadow": false
+    },
+  ]
+}
+
