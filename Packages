@@ -5,9 +5,9 @@ Description: A simple tweak that enable day and date secondline in status bar
 Maintainer: SileoTweak 
 Author: 34306
 Section: Tweaks
-Icon: https://phucdo.pages.dev/repo/package/2nd/icon.png
-SileoDepiction: https://phucdo.pages.dev/repo/package/2nd/SileoDepiction.json
-Depiction: https://phucdo.pages.dev/repo/Sileo-Depiction-WebViews/?json=https://phucdo.pages.dev/repo/package/2nd/SileoDepiction.json&name=2nd&dev=34306
+Icon: https://phucdo-repo.pages.dev/package/2nd/icon.png
+SileoDepiction: https://phucdo-repo.pages.dev/package/2nd/SileoDepiction.json
+Depiction: https://phucdo-repo.pages.dev/Sileo-Depiction-WebViews/?json=https://phucdo-repo.pages.dev/package/2nd/SileoDepiction.json&name=2nd&dev=34306
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 152
