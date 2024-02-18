@@ -185,7 +185,7 @@ Architecture: iphoneos-arm64
 Maintainer: alimaula
 Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
-Filename: ./Tweaks/com.ali.aimpro_1.0.5_iphoneos-arm64.deb
+Filename: ./package/Tweaks/com.ali.aimpro_1.0.5_iphoneos-arm64.deb
 Size: 2323664
 MD5sum: 651e3dac4046fb66a562e29d8601c5cd
 SHA1: 6ee325b1b090ed17d5e2b07bff6003a393178cf4
@@ -203,7 +203,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: straight-tamago
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
-Filename: ./Tweaks/com.misakaproject.macaron_1.0.1_iphoneos-arm64.deb
+Filename: ./package/Tweaks/com.misakaproject.macaron_1.0.1_iphoneos-arm64.deb
 Size: 406768
 MD5sum: d97fb17ed0326d23c113519be56cc05a
 SHA1: 68657e00b2c2b1defcb82a68c17a7704208a9464
