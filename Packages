@@ -1,74 +1,18 @@
-Package: com.misakaproject.frendacc
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: sugiuta
-Installed-Size: 4332
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.misakaproject.frendacc_1.0.0_iphoneos-arm.deb
-Size: 1403148
-MD5sum: 8345fbecd56d560b05b078bc962b46c2
-SHA1: dcf6f0921bd0277e34c354ebdb2335923973813f
-SHA256: c9d80f1fe91948503fa7946c335231ed6fcf7c1fab84d589dca4c659abf06dae
-Section: Tweaks
-Description: FrendaCC is customize CC on Jailbroken devices for iOS15 & 16.
-Author: sugiuta
-Conflict: com.misakaproject.plampycc
-Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
-Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
-Name: FrendaCC
-
-Package: com.misakaproject.frendacc
-Version: 1.0.0
+Package: com.phucdo.dopamineblacklist
+Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: sugiuta
-Installed-Size: 4332
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.misakaproject.frendacc_1.0.0_iphoneos-arm64.deb
-Size: 1403130
-MD5sum: bed10ddb41ae1db94531365c9a28574d
-SHA1: f9512325907d7a9219d7dd43105756f658ed9df1
-SHA256: d682de4438e785d8ccb835e209995f23cf96708fd74f55920a75129ff8cb3217
-Section: Tweaks
-Description: FrendaCC is customize CC on Jailbroken devices for iOS15 & 16.
-Author: sugiuta
-Conflict: com.misakaproject.plampycc
-Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
-Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
-Name: FrendaCC
-
-Package: com.misakaproject.frendacc
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: sugiuta
-Installed-Size: 4332
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.misakaproject.frendacc_1.0.1_iphoneos-arm.deb
-Size: 1403756
-MD5sum: ad0c62dde9b033a59abbeefbdd1f8edf
-SHA1: 651a188b74feed871a89a80b6290eabc3d262443
-SHA256: c8ef20fe9bcf8db685ee17ddf82afbf01ca90a7f91f4b3f4ef33fad84c82fe8f
-Section: Tweaks
-Description: FrendaCC is custumize CC on Jailbroken devices for iOS15 & 16.
-Author: sugiuta
-Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
-Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
-Name: FrendaCC
-
-Package: com.misakaproject.frendacc
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: sugiuta
-Installed-Size: 4332
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.misakaproject.frendacc_1.0.1_iphoneos-arm64.deb
-Size: 1403642
-MD5sum: 4a112dcdadf172be51002771c810333a
-SHA1: f9c1f378f28dc86949b6b289d60715d05dca2bfa
-SHA256: af45cafbbaac0faa851db45b94d9120f9a145c166c9da19cd1fc18052b0ce8e5
-Section: Tweaks
-Description: FrendaCC is custumize CC on Jailbroken devices for iOS15 & 16.
-Author: sugiuta
-Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
-Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
-Name: FrendaCC
+Maintainer: Phuc Do
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./DopamineBlacklist/com.phucdo.dopamineblacklist_1.0_iphoneos-arm64.deb
+Size: 29096
+MD5sum: 75192481a483df88650d791e4db69dd0
+SHA1: c2befd432b5174bc10b06dd9158362b8e643fe93
+SHA256: 499bfaabf52a6489b7642b896e7809ca3b6acd2836f2e69e96d77d573e3817fb
+Section: Hide JB
+Description: DopamineBlackList
+Author: zqbb
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/DopamineBlacklist/SileoDepiction.json&name=DopamineBlacklist&dev=zqbb
+Icon: https://dobabaophuc1706.github.io/repo/package/DopamineBlacklist/icon.png
+Name: DopamineBlackList
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/DopamineBlacklist/SileoDepiction.json
 

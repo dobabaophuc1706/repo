@@ -48,7 +48,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# 2nd \r\n### A simple tweak that enable day and date secondline in status bar.\r\n\r\n \u00b7Work on iOS 15/rootless.",
+                    "markdown": "# Dopamine Blacklist \r\n### A simple tweak that inject blacklist for Dopamine jailbreak.",
                     "useSpacing": true
                 },
                 {
