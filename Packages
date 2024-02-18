@@ -161,3 +161,20 @@ Description: This module provides the Cydia Substrate API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Cydia Substrate)
 
+Package: com.phucdo.LSLunarLatern
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./package/LSLunarLatern/com.phucdo.LSLunarLatern_1.0_iphoneos-arm64.deb
+Size: 14728
+MD5sum: 3a49d5102d1bef609ec16ad765b63e68
+SHA1: 94af8f5d06d47e8858d5598af668ea6a0376d139
+SHA256: c41f346d6d4bfb0793fa7af6a2173299bd0f48b6a39112a63de78c5ab1860e14
+Section: Clock Fonts
+Description: Use AIM/AIM Pro tweak to enable the font clock.
+Author: Phuc Do
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSLunarLatern/SileoDepiction.json&name=LS%20Lunar%20Latern&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/LSLunarLatern/icon.png
+Name: LS Lunar Latern
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSLunarLatern/SileoDepiction.json
+
