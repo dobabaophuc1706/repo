@@ -1,0 +1,36 @@
+Package: com.opa334.altlist
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./packages/SystemDebs/com.opa334.altlist_1.0.10_iphoneos-arm64.deb
+Size: 27752
+MD5sum: d56fbc22b9ed3f663fef1e48293efc1b
+SHA1: 86a27b2fab4266e4394494310e33a1177c02bb47
+SHA256: 83cb344b44fccb9187fc4bf75fa023df83ba1c24a768f4baf84c1d09daa6c9fe
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
+Package: com.opa334.libsandy
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 340
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./packages/SystemDebs/com.opa334.libsandy_1.1.3_iphoneos-arm64.deb
+Size: 12266
+MD5sum: 007f4f9150b1b2f3336ff133e6c99f1d
+SHA1: 06a39a4ebec196eeb29bc2101f0ccee1203c3429
+SHA256: 5371019a18baf38603aeb674ccbf3911c0a7b164dfc4752cb3c357dbe2dec612
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Name: libSandy
+
