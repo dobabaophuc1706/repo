@@ -177,3 +177,22 @@ Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json
 Icon: https://dobabaophuc1706.github.io/repo/package/LSLunar2024/icon.png
 Name: LS Lunar 2024
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSLunar2024/SileoDepiction.json
+
+Package: com.ali.aimpro
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: alimaula
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./Tweaks/com.ali.aimpro_1.0.5_iphoneos-arm64.deb
+Size: 2323664
+MD5sum: 651e3dac4046fb66a562e29d8601c5cd
+SHA1: 6ee325b1b090ed17d5e2b07bff6003a393178cf4
+SHA256: 8f49037342695036caade92e154a83e262bea3d099e9228b5c9d65bff0954851
+Section: Tweaks
+Description: iOS 16 Style Time & Date Lockscreen
+Author: alimaulana
+Depiction: https://havoc.app/depiction/aimpro
+Icon: https://media.havoc.app/642009161ed06bb2ce43e2a1
+Name: AIM Pro
+Sileodepiction: https://havoc.app/package/aimpro/depiction.json
