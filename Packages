@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: .package/DopamineBlacklist/com.phucdo.dopamineblacklist_1.0_iphoneos-arm64.deb
+Filename: ./package/DopamineBlacklist/com.phucdo.dopamineblacklist_1.0_iphoneos-arm64.deb
 Size: 29096
 MD5sum: 75192481a483df88650d791e4db69dd0
 SHA1: c2befd432b5174bc10b06dd9158362b8e643fe93
