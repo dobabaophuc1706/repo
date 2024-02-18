@@ -165,7 +165,6 @@ Package: com.phucdo.LSLunar2024
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
-Depends: com.ali.aimpro
 Filename: ./package/LSLunar2024/com.phucdo.LSLunar2024_1.0_iphoneos-arm64.deb
 Size: 42448
 MD5sum: a01311bdc1a171cfd685bd73cb2a199f
@@ -178,25 +177,6 @@ Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json
 Icon: https://dobabaophuc1706.github.io/repo/package/LSLunar2024/icon.png
 Name: LS Lunar 2024
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSLunar2024/SileoDepiction.json
-
-Package: com.ali.aimpro
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: alimaula
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
-Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
-Filename: ./package/Tweaks/com.ali.aimpro_1.0.5_iphoneos-arm64.deb
-Size: 2323664
-MD5sum: 651e3dac4046fb66a562e29d8601c5cd
-SHA1: 6ee325b1b090ed17d5e2b07bff6003a393178cf4
-SHA256: 8f49037342695036caade92e154a83e262bea3d099e9228b5c9d65bff0954851
-Section: Tweaks
-Description: iOS 16 Style Time & Date Lockscreen
-Author: alimaulana
-Depiction: https://havoc.app/depiction/aimpro
-Icon: https://media.havoc.app/642009161ed06bb2ce43e2a1
-Name: AIM Pro
-Sileodepiction: https://havoc.app/package/aimpro/depiction.json
 
 Package: com.misakaproject.macaron
 Version: 1.0.1
@@ -215,3 +195,39 @@ Depiction: https://havoc.app/depiction/macaron
 Icon: https://cdn.discordapp.com/attachments/1114977950245322865/1127915035776274522/icon3x.png
 Name: Macaron
 Sileodepiction: https://havoc.app/package/macaron/depiction.json
+
+Package: com.phucdo.FontMikhak100
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/FontMikhak/com.phucdo.FontMikhak100_1.0_iphoneos-arm64.deb
+Size: 12112540
+MD5sum: b75e3b3d5f2763de617d34fbcfb819f7
+SHA1: 787065800094edc09d4db34fd5e0cd8b29694b9e
+SHA256: eb42645b39ffa8d57add4b5478d3675fa3060d5a8025f2cd2e4cc467e7dbe1c3
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: Alex Man
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%20100%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
+Name: Font Mikhak 100%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
+
+Package: com.phucdo.FontMikhak85
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/FontMikhak/com.phucdo.FontMikhak85_1.0_iphoneos-arm64.deb
+Size: 12899856
+MD5sum: 0f7b02cde9a417f17ceb5dfb50d03a5b
+SHA1: 6449e5205b9c2228beb80142a42378dd69970fd3
+SHA256: d55c0927aa61d72ee2fae5205cafbe0b8f58c2eb498f8f9ed581b4aa1b24e2da
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: Alex Man
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%2085%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
+Name: Font Mikhak 85%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
