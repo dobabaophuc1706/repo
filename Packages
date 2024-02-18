@@ -196,6 +196,50 @@ Icon: https://cdn.discordapp.com/attachments/1114977950245322865/112791503577627
 Name: Macaron
 Sileodepiction: https://havoc.app/package/macaron/depiction.json
 
+Package: com.spark.snowboard
+Version: 1.5.26-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3236
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./package/SnowBoard/1.5.26-Beta4-rootless.deb
+Size: 1120268
+MD5sum: 9109ec3d0b2bca55154f15610c8b61ba
+SHA1: 1548df152c15da2d898f19e618fb6af4bdee5d85
+SHA256: 2857efc003bf3c2def3119ea1b45f25b86eb57c8bf6f3b8d12c822e976608a51
+Section: SnowBoard & Extensions
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+Icon: https://sparkdev.me/package-logo/com.spark.snowboard
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard
+
+Package: com.spark.snowboard.fonts
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 392
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./package/SnowBoard/1.1.0~Beta4-rootless.deb
+Size: 20312
+MD5sum: 4ffba8f73f3315a2a483b452b520d129
+SHA1: ac12c858be9fa5153836431f7371f34d78d30394
+SHA256: adb486617e2ce7d70bb989ac8450173e7d074433ea482f7c648bcfe9227d2a30
+Section: SnowBoard & Extensions
+Description: Fonts for SnowBoard
+Author: Spark
+Name: SnowBoard Fonts Extension
+Icon: https://sparkdev.me/package-logo/com.spark.snowboard.fonts
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.fonts
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.fonts
+
 Package: com.phucdo.FontMikhak100
 Version: 1.0
 Architecture: iphoneos-arm64
