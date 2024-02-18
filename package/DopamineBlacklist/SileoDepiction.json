@@ -121,7 +121,7 @@
                     "class": "DepictionImageView"
                   },
                   {
-                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo ✨</small><style>body { text-align: center; }</style>",
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 }
