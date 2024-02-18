@@ -1,0 +1,80 @@
+html {
+    --text-color: #000000;
+    --navbar-bg-color: #FEFEFE;
+    --bg-color: #FFFFFF;
+    --bg-opacity-color: rgba(255,255,255,.9);
+    --tint-color: #2CB1BE;
+    --border-color: #d6d6d6;
+    --light-text-color: #8F8E94;
+    --medium-text-color: #958E80;
+    scroll-behavior: smooth;
+}
+.darkMode {
+    --bg-color: #282828;
+    --bg-opacity-color: rgba(35,35,35,.9);
+    --text-color: #FFFFFF;
+    --navbar-bg-color: #1E1E1E;
+    --border-color: #363636;
+}
+
+* {
+    color: #000000; /*fallback for IE*/
+    color: var(--text-color);
+    text-align: left;
+    font-family: -apple-system-font,BlinkMacSystemFont,Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+body {
+    max-width: 100vw;
+    background-color: #FFFFFF; /*fallback for IE*/
+    background-color: var(--bg-color);
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+}
+::-webkit-scrollbar-track {
+    background: rgba(0,0,0,0.08);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(0,0,0,0.20);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0,0,0,0.25);
+}
+
+/* Reloading Sources */
+#reloadingRepoWrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 220px;
+    height: 130px;
+    background-color: rgba(0,0,0,.8);
+    border-radius: 25px;
+}
+#reloadingRepoText {
+    width: 100%;
+    height: calc(100% - 85px);
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 85px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#reloadingRepoWrapper img {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 45px;
+    height: 45px;
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title id="websiteTitle">Depiction</title>
+        <link id="websiteIcon" rel="icon">
+        <link rel="stylesheet" href="global.css">
+        <link rel="stylesheet" href="depiction.css">
+    </head>
+    <body>
+
+        <div id="overlayPopup">
+            <div class="doneButton" onclick="hideOverlayPopup()">Done</div>
+            <div id="aboutInfo">
+                <h1 style="font-size: 24pt; margin-top: 0">About</h1>
+                <h2 style="font-size: 16pt">Sileo Depiction WebView</h2>
+                <h4>Generate Websites using Sileo Depiction Files!</h4>
+                <p>This project was created and maintained by PINPAL.</p>
+                <p>If you found a bug or issue, or simply want to contact me you can do so here:</p>
+                <a href="https://twitter.com/TPinpal" class="socialLink" 
+                style="background-image: url('https://pinpal.github.io/assets/social-icons/Discord.png')">
+                    <p>Twitter<br><span>@TPINPAL</span></p>
+                </a>
+                <a href="https://discordapp.com/channels/@me" class="socialLink" 
+                style="background-image: url('https://pinpal.github.io/assets/social-icons/Twitter.png')">
+                    <p>Discord<br><span>PINPAL#2591</span></p>
+                </a>
+                <a href="https://www.reddit.com/user/THE_PINPAL614" class="socialLink" 
+                style="background-image: url('https://pinpal.github.io/assets/social-icons/Reddit.png')">
+                    <p>Reddit<br><span>PINPAL</span></p>
+                </a>
+                <a href="https://github.com/PINPAL/" class="socialLink"
+                style="background-image: url('https://pinpal.github.io/assets/social-icons/Github.png')">
+                    <p>Github<br><span>PINPAL</span></p>
+                </a>
+            </div>
+            <div id="configureSettings">
+                <h1>Settings</h1>
+                <p class="settingsCapsText">Display</p>
+                <div class="settingsTableArray">
+                    <div class="settingsTableCell">
+                        Dark Mode
+                        <div class="toggleSwitch" id="enableDarkMode" onclick="toggleSetting(this)">
+                            <div class="toggleSwitchKnob"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="overlayPopupContent"></div>
+         </div>
+
+        <div id="modifyPopup">
+            <div class="popupButtonWrapper">
+                <div class="popupButton" onClick="displayOverlayPopup(this)">About</div>
+                <div class="popupButton" onClick="sharePackage()">Share Package</div>
+                <div class="popupButton" onClick="displayOverlayPopup(this)">Configure</div>
+                <div class="popupButton" onclick="hidePopup()">Cancel</div>
+            </div>
+        </div>
+
+        <div id="everythingWrapper">
+            <div id="bannerWrapper">
+                <div id="bannerImage"></div>
+                <div id="bannerNavItems">
+                    <div class="leftNavButton">
+                        <a class="backURL" style="color: white">
+                            <div class="backArrow"></div>Back
+                        </a>
+                    </div>
+                    <div class="rightNavButton">
+                        <div class="modifyButton"></div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="navbar">
+                <div class="leftNavButton">
+                    <a class="backURL">
+                        <div class="backArrow"></div>Back
+                    </a>
+                </div>
+                <div class="changedNavbarItems">
+                    <div id="navbarTweakIcon"></div>
+                    <div class="rightNavButton">
+                        <div class="priceButton" onclick="modifyButton()">Free</div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="contentWrapper">
+                <div class="headerSection">
+                    <div id="tweakIcon"></div>
+                    <h1 id="tweakName"></h1>
+                    <h4 id="developerName"></h4>
+                    <div class="priceButton">Free</div>
+                </div>
+                <div class="headerPillSelector">
+                    <div class="pillSelectorLine"></div>
+                </div>
+                <div id="mainWrapper">
+                        <div id="reloadingRepoWrapper">
+                            <img src="https://pinpal.github.io/Sileo-Depiction-WebViews/assets/loading.gif">
+                            <div id="reloadingRepoText">Fetching Sileo Depiction</div>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="global.js"></script>
+        <script src="packageIconHandler.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/showdown"></script>
+        <script src="viewHandler.js"></script>
+        <script src="depiction.js"></script> 
+    </body>
+</html>

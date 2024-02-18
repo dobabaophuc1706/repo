@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title id="websiteTitle">SileoTweak</title>
+        <link id="websiteIcon" rel="icon">
+        <link rel="stylesheet" href="../global.css">
+        <link rel="stylesheet" href="../depiction.css">
+    </head>
+    <style>
+        body {
+            height: 600px;
+        }
+        .navbar {
+            opacity: 1;
+        }
+        .screenshot {
+            position: absolute;
+            top: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            margin: 0 !important;
+            height: calc(100vh - 40px);
+            border-radius: 8px;
+            cursor: auto;
+        }
+    </style>
+    <body>
+        <div class="navbar">
+            <div class="leftNavButton" onclick="goBack()">
+                <div class="backArrow" onclick="goBack()"></div>Back
+            </div>
+        </div>
+        <img class="screenshot" src="">
+    </body>
+    <script src="../global.js"></script>
+    <script>
+        document.getElementsByTagName("img")[0].src = decodeURI(getQueryVariable("image"))
+        function goBack() {
+            window.location.href = window.location.search.replace(/.*&back=/,"")
+        }
+    </script>
+</html>
