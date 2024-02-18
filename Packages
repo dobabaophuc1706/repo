@@ -16,3 +16,27 @@ Icon: https://dobabaophuc1706.github.io/repo/package/DopamineBlacklist/icon.png
 Name: DopamineBlackList
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/DopamineBlacklist/SileoDepiction.json
 
+Package: com.jjolanoxphucdo.shadow
+Version: 3.7.6
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Installed-Size: 1076
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: ./package/Shadow/com.jjolanoxphucdo.shadow_3.7.6_iphoneos-arm64.deb
+Size: 108640
+MD5sum: 7c145928767d6f8322ce2218a80efaa5
+SHA1: 106c36bc86ba4ec446e2a60be091b0a329a82d0e
+SHA256: 30be0cb3fb03f02df3e17b76efe856d07218e279aeab2772bca64c3bc7ba0b12
+Section: Hide JB
+Description: A modern jailbreak detection bypass.
+Author: jjolano
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Shadow/SileoDepiction.json&name=Shadow&dev=jjolano
+Icon: https://dobabaophuc1706.github.io/repo/package/Shadow/icon.png
+Name: Shadow
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Shadow/SileoDepiction.json

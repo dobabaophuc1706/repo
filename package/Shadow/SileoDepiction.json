@@ -20,6 +20,11 @@
                             "accessibilityText":"Screenshot",
                             "url":"https://dobabaophuc1706.github.io/repo/package/Shadow/2.png",
                             "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Shadow/2.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Shadow/3.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Shadow/3.png"
                         }
                     ],
                     "ipad":{
@@ -35,6 +40,11 @@
                                 "accessibilityText":"Screenshot",
                                 "url":"https://dobabaophuc1706.github.io/repo/package/Shadow/2.png",
                                 "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Shadow/2.png"
+                            },
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Shadow/3.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Shadow/3.png"
                             }
                         ],
                         "class":"DepictionScreenshotView"
@@ -48,7 +58,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Shadow Bypass \r\n### A modern jailbreak detection bypass.",
+                    "markdown": "# Shadow Bypass \r\n### A modern jailbreak detection bypass.\r\n\r\nRequest:\r\n\r\n \u00b7https://opa334.github.io\r\n\r\n \u00b7https://ios.jjolano.me",
                     "useSpacing": true
                 },
                 {
@@ -70,18 +80,18 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "zqbb",
+                    "text": "jjolano",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
                 
                 {
-                    "text": "28.984 KB",
+                    "text": "1076 KB",
                     "title": "Installed-Size",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Tweaks",
+                    "text": "Hide JB",
                     "title": "Section",
                     "class": "DepictionTableTextView"
                 },               
