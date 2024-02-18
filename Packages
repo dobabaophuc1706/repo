@@ -165,6 +165,7 @@ Package: com.phucdo.LSLunar2024
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
+Depends: com.ali.aimpro
 Filename: ./package/LSLunar2024/com.phucdo.LSLunar2024_1.0_iphoneos-arm64.deb
 Size: 42448
 MD5sum: a01311bdc1a171cfd685bd73cb2a199f
@@ -196,3 +197,21 @@ Depiction: https://havoc.app/depiction/aimpro
 Icon: https://media.havoc.app/642009161ed06bb2ce43e2a1
 Name: AIM Pro
 Sileodepiction: https://havoc.app/package/aimpro/depiction.json
+
+Package: com.misakaproject.macaron
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: straight-tamago
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
+Filename: ./Tweaks/com.misakaproject.macaron_1.0.1_iphoneos-arm64.deb
+Size: 406768
+MD5sum: d97fb17ed0326d23c113519be56cc05a
+SHA1: 68657e00b2c2b1defcb82a68c17a7704208a9464
+SHA256: 64d28a2aa005209446ace4e0dfc9ba344e8d349c1e95795c52de0e0e28c99894
+Section: Tweaks
+Description: Displays a photo in the background of the dock.
+Author: straight-tamago
+Depiction: https://havoc.app/depiction/macaron
+Icon: https://cdn.discordapp.com/attachments/1114977950245322865/1127915035776274522/icon3x.png
+Name: Macaron
+Sileodepiction: https://havoc.app/package/macaron/depiction.json
