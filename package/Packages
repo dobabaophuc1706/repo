@@ -1,0 +1,36 @@
+Package: com.phucdo.FontCoconPro100
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./FontCoconPro/com.phucdo.FontCoconPro100_1.0_iphoneos-arm.deb
+Size: 1116648
+MD5sum: b9b20379283ada519f46c958116bf268
+SHA1: 644ff3ab7261843fca9bfd5425b19a43a2aa3c7f
+SHA256: aed4f6450b271a41135a69223a05fd56eda7715f3adfc72195b8fb2c831c20b0
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: Alex Man
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro%20100%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontCoconPro/icon.png
+Name: Font Cocon Pro 100%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontCoconPro/SileoDepiction.json
+
+Package: com.phucdo.FontCoconPro100
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./FontCoconPro/com.phucdo.FontCoconPro100_1.0_iphoneos-arm64.deb
+Size: 1116696
+MD5sum: 8d5fb334e9466712aef692e05ea9cb82
+SHA1: 24292e2fc7f013651683ed98196d61f483f91c3f
+SHA256: ebc9b85bd411de1c57906efc83f0cf86639fcdda3e6f2aa5a37acbd2e853738a
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: Alex Man
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro%20100%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontCoconPro/icon.png
+Name: Font Cocon Pro 100%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontCoconPro/SileoDepiction.json
+
