@@ -374,3 +374,39 @@ Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json
 Icon: https://dobabaophuc1706.github.io/repo/package/FontCoconPro/icon.png
 Name: Font Cocon Pro 100%
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontCoconPro/SileoDepiction.json
+
+Package: com.phucdo.HuiFontJP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/HuiFont/com.phucdo.HuiFontJP_1.0_iphoneos-arm.deb
+Size: 5424144
+MD5sum: a6b834fca2e8be7acc4ca6e92245e607
+SHA1: c6e29fef42552ec461fc3d8945f19eef535cf8cc
+SHA256: 730fd365143e84f9c0151f8bdeb3a1cabbb3146784e5123745a7b7b4e7f58ece
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: straight-tamago
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/HuiFont/SileoDepiction.json&name=ふい字&dev=straight-tamago
+Icon: https://dobabaophuc1706.github.io/repo/package/HuiFont/icon.png
+Name: ふい字 - HuiFont
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/HuiFont/SileoDepiction.json
+
+Package: com.phucdo.HuiFontJP
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/HuiFont/com.phucdo.HuiFontJP_1.0_iphoneos-arm64.deb
+Size: 5424736
+MD5sum: 29e581644e4edae739f5cbe5dfcfceab
+SHA1: 9af979bbff5c636c668fb86910381356ace686b2
+SHA256: 188049ff0431e077199d990fef4943e1f37b96a17a9eff5cb0af113df0cd0e22
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: straight-tamago
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/HuiFont/SileoDepiction.json&name=ふい字&dev=straight-tamago
+Icon: https://dobabaophuc1706.github.io/repo/package/HuiFont/icon.png
+Name: ふい字 - HuiFont
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/HuiFont/SileoDepiction.json
