@@ -38,7 +38,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# RecordDot for Rootless\r\n###An awesome MobileSubstrate tweak! - Change color area behind status bar time into a color dot.",
+                    "markdown": "# RecordDot for Rootless \r\n### An awesome MobileSubstrate tweak! - Change color area behind status bar time into a color dot.",
                     "useSpacing": true
                 },
                 {
