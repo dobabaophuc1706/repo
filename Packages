@@ -305,6 +305,24 @@ SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.fonts
 
 Package: com.phucdo.FontMikhak100
 Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/FontMikhak/com.phucdo.FontMikhak100_1.0_iphoneos-arm.deb
+Size: 12115320
+MD5sum: 22f7431190fc7b1618b00424b25fb7ef
+SHA1: aa608375d1fc1fd3aecc572b63b7cec5338e7d28
+SHA256: 45066c92899b8bc51cb0b6ea7ef977d1e590bd7a38f0c472ea6cc381eade34e2
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: Alex Man
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%20100%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
+Name: Font Mikhak 100%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
+
+Package: com.phucdo.FontMikhak100
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Depends: com.spark.snowboard.fonts, com.spark.snowboard
@@ -319,6 +337,24 @@ Author: Alex Man
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%20100%&dev=Phuc%20Do
 Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
 Name: Font Mikhak 100%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
+
+Package: com.phucdo.FontMikhak85
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/FontMikhak/com.phucdo.FontMikhak85_1.0_iphoneos-arm.deb
+Size: 12900404
+MD5sum: acf9bf714f4cffad524055a1960430fb
+SHA1: ebf4007cd9f0f81f1477d18fc8252a5dc247564d
+SHA256: f2e6d67efbb2c13e7563e4d293776d125d1ff19a83d9143e8298b883e7ce5844
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: Alex Man
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%2085%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
+Name: Font Mikhak 85%
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
 
 Package: com.phucdo.FontMikhak85
