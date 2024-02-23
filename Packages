@@ -446,3 +446,57 @@ Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json
 Icon: https://dobabaophuc1706.github.io/repo/package/HuiFont/icon.png
 Name: ふい字 - HuiFont
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/HuiFont/SileoDepiction.json
+
+Package: com.phucdo.FontTrakyaRounded100
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/FontTrakyaRounded/com.phucdo.FontTrakyaRounded100_1.0_iphoneos-arm64.deb
+Size: 10831564
+MD5sum: e9c2445ba19b3bff573c6fe1cc9b04f7
+SHA1: a4fa30b7cfa0d48f66564c6d3a46ce873a279f90
+SHA256: b09415a38aa9967fd95a08a341460b958536ac3f1c1fe66773f5758a26e7afbd
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: Alex Man
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json&name=Font%20Trakya%20Rounded%20100%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/icon.png
+Name: Font Trakya Rounded 100%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json
+
+Package: com.phucdo.FontTrakyaRounded85
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/FontTrakyaRounded/com.phucdo.FontTrakyaRounded85_1.0_iphoneos-arm64.deb
+Size: 11503784
+MD5sum: 3b444e9894a0a5d881ab8eaf34231cc4
+SHA1: ad970e153e2e75f480a1bdb716cce80625fd5526
+SHA256: 0458e189b1e1180a1c48bacd0d76a6defd34391e9ab53833b59b38fd0af5c0b4
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: Alex Man
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json&name=Font%20Trakya%20Rounded%2085%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/icon.png
+Name: Font Trakya Rounded 85%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json
+
+Package: com.phucdo.FontTrakyaRoundedEdition85
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.fonts, com.spark.snowboard
+Filename: ./package/FontTrakyaRounded/com.phucdo.FontTrakyaRoundedEdition85_1.0_iphoneos-arm64.deb
+Size: 11642296
+MD5sum: a959e934c002fc3e6b02f907cee8d21d
+SHA1: 5e6ff97884e3fc249e0d6ac3711863bd08183e92
+SHA256: 7df13cacf28c8328d7e8a0ea9ac90f14dedbdc0c1db666b05a3fc15d1a8a2f7c
+Section: Fonts
+Description: Edition by YangJiii for only IOS 16.
+Author: YangJiii
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json&name=Font%20Trakya%20Rounded%2085%&dev=Phuc%20Do
+Icon: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/icon.png
+Name: Font Trakya Rounded 85%
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json
