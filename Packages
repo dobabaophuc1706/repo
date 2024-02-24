@@ -179,25 +179,6 @@ Icon: https://cdn.discordapp.com/attachments/1114977950245322865/112791503577627
 Name: Macaron
 Sileodepiction: https://havoc.app/package/macaron/depiction.json
 
-Package: com.nightwind.recorddot
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: Phuc Do
-Installed-Size: 532
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./package/RecordDot/com.nightwind.recorddot_0.0.1_iphoneos-arm64.deb
-Size: 185596
-MD5sum: 5290c2765a740a028d0deddb4ced0b21
-SHA1: bfb263f0fb2b251811b3497e6a7a96a68f6ea139
-SHA256: 6835b3620d0ed4a2dcdbcbbec6301ac4aa958a9a8235cf32084ef7a45b0f5021
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Nightwind
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/RecordDot/SileoDepiction.json&name=RecordDot&dev=Nightwind
-Icon: https://dobabaophuc1706.github.io/repo/package/RecordDot/icon.png
-Name: RecordDot
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/RecordDot/SileoDepiction.json
-
 Package: com.phucdo.LSLunar2024
 Version: 1.0
 Architecture: iphoneos-arm64
