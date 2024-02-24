@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://dobabaophuc1706.github.io/repo/package/HuiFont/SileoBanner.png",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/SileoBanner.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -13,23 +13,13 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/HuiFont/1.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/HuiFont/1.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/1.png"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/HuiFont/2.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/HuiFont/2.png"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/HuiFont/3.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/HuiFont/3.png"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/HuiFont/4.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/HuiFont/4.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/2.png"
                         }
                     ],
                     "ipad":{
@@ -38,23 +28,13 @@
                         "screenshots":[
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/HuiFont/1.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/HuiFont/1.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/1.png"
                             },
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/HuiFont/2.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/HuiFont/2.png"
-                            },
-                            {
-                                "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/HuiFont/3.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/HuiFont/3.png"
-                            },
-                            {
-                                "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/HuiFont/4.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/HuiFont/4.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/2.png"
                             }
                         ],
                         "class":"DepictionScreenshotView"
@@ -68,7 +48,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# ふい字 - HuiFont \r\n### A Japanese font ported for IOS/",
+                    "markdown": "# LS UI Plampy 2.0 \r\n### Use Snowboard UI Extension to enable LS UI.",
                     "useSpacing": true
                 },
                 {
@@ -90,12 +70,12 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "straight-tamago",
+                    "text": "YangJiii",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Fonts",
+                    "text": "LS UI",
                     "title": "Section",
                     "class": "DepictionTableTextView"
                 },               
@@ -109,7 +89,7 @@
                 {
                     "title":"Tweak Depiction",
                     "tintColor":"#1da1f2",
-                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/HuiFont/SileoDepiction.json&name=ふい字&dev=straight-tamago",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/SileoDepiction.json&name=LS%20UI%20Plampy%202.0&dev=YangJiii",
                     "class": "DepictionTableButtonView"
                 },
                 {
