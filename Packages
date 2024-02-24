@@ -500,3 +500,39 @@ Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json
 Icon: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/icon.png
 Name: Font Trakya Rounded Edition 85%
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json
+
+Package: com.phucdo.LSUIPlampy2.0
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.ui, com.spark.snowboard
+Filename: ./LSUIPlampy2.0/com.phucdo.LSUIPlampy2.0_1.0_iphoneos-arm.deb
+Size: 42264
+MD5sum: aba4f300a4f409c9a49e937bf1503b15
+SHA1: bd45ac5f2a094ef284844a2500bf6a690e48dc13
+SHA256: 94e7e4165206e77623e2cca108f82d159297106254a515106c714020d9f20179
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: YangJiii
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/SileoDepiction.json&nameLS%20UI%20Plampy%202.0&dev=YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/icon.png
+Name: LS UI Plampy 2.0
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/SileoDepiction.json
+
+Package: com.phucdo.LSUIPlampy2.0
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: com.spark.snowboard.ui, com.spark.snowboard
+Filename: ./LSUIPlampy2.0/com.phucdo.LSUIPlampy2.0_1.0_iphoneos-arm64.deb
+Size: 42364
+MD5sum: a6646410d6944f736551760d840832a1
+SHA1: c6776661a239531fc47f85d19b442fd1cb693e39
+SHA256: 1f5dc054a4f9a31f0d88c7f7afd63a5f57595c1e1e6a9ebbc1b45baca172a081
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: YangJiii
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/SileoDepiction.json&nameLS%20UI%20Plampy%202.0&dev=YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/icon.png
+Name: LS UI Plampy 2.0
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUIPlampy2.0/SileoDepiction.json
