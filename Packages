@@ -506,7 +506,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Phuc Do
 Depends: com.spark.snowboard.ui, com.spark.snowboard
-Filename: ./LSUIPlampy2.0/com.phucdo.LSUIPlampy2.0_1.0_iphoneos-arm.deb
+Filename: ./package/LSUIPlampy2.0/com.phucdo.LSUIPlampy2.0_1.0_iphoneos-arm.deb
 Size: 42264
 MD5sum: aba4f300a4f409c9a49e937bf1503b15
 SHA1: bd45ac5f2a094ef284844a2500bf6a690e48dc13
@@ -524,7 +524,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Depends: com.spark.snowboard.ui, com.spark.snowboard
-Filename: ./LSUIPlampy2.0/com.phucdo.LSUIPlampy2.0_1.0_iphoneos-arm64.deb
+Filename: ./package/LSUIPlampy2.0/com.phucdo.LSUIPlampy2.0_1.0_iphoneos-arm64.deb
 Size: 42364
 MD5sum: a6646410d6944f736551760d840832a1
 SHA1: c6776661a239531fc47f85d19b442fd1cb693e39
