@@ -303,78 +303,6 @@ Icon: https://sparkdev.me/package-logo/com.spark.snowboard.fonts
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.fonts
 SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.fonts
 
-Package: com.phucdo.FontMikhak100
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Phuc Do
-Depends: com.spark.snowboard.fonts, com.spark.snowboard
-Filename: ./package/FontMikhak/com.phucdo.FontMikhak100_1.0_iphoneos-arm.deb
-Size: 12115320
-MD5sum: 22f7431190fc7b1618b00424b25fb7ef
-SHA1: aa608375d1fc1fd3aecc572b63b7cec5338e7d28
-SHA256: 45066c92899b8bc51cb0b6ea7ef977d1e590bd7a38f0c472ea6cc381eade34e2
-Section: Fonts
-Description: Use Snowboard Font Extension to enable the font.
-Author: Alex Man
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%20100%&dev=Phuc%20Do
-Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
-Name: Font Mikhak 100%
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
-
-Package: com.phucdo.FontMikhak100
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Phuc Do
-Depends: com.spark.snowboard.fonts, com.spark.snowboard
-Filename: ./package/FontMikhak/com.phucdo.FontMikhak100_1.0_iphoneos-arm64.deb
-Size: 12112540
-MD5sum: b75e3b3d5f2763de617d34fbcfb819f7
-SHA1: 787065800094edc09d4db34fd5e0cd8b29694b9e
-SHA256: eb42645b39ffa8d57add4b5478d3675fa3060d5a8025f2cd2e4cc467e7dbe1c3
-Section: Fonts
-Description: Use Snowboard Font Extension to enable the font.
-Author: Alex Man
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%20100%&dev=Phuc%20Do
-Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
-Name: Font Mikhak 100%
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
-
-Package: com.phucdo.FontMikhak85
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Phuc Do
-Depends: com.spark.snowboard.fonts, com.spark.snowboard
-Filename: ./package/FontMikhak/com.phucdo.FontMikhak85_1.0_iphoneos-arm.deb
-Size: 12900404
-MD5sum: acf9bf714f4cffad524055a1960430fb
-SHA1: ebf4007cd9f0f81f1477d18fc8252a5dc247564d
-SHA256: f2e6d67efbb2c13e7563e4d293776d125d1ff19a83d9143e8298b883e7ce5844
-Section: Fonts
-Description: Use Snowboard Font Extension to enable the font.
-Author: Alex Man
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%2085%&dev=Phuc%20Do
-Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
-Name: Font Mikhak 85%
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
-
-Package: com.phucdo.FontMikhak85
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Phuc Do
-Depends: com.spark.snowboard.fonts, com.spark.snowboard
-Filename: ./package/FontMikhak/com.phucdo.FontMikhak85_1.0_iphoneos-arm64.deb
-Size: 12899856
-MD5sum: 0f7b02cde9a417f17ceb5dfb50d03a5b
-SHA1: 6449e5205b9c2228beb80142a42378dd69970fd3
-SHA256: d55c0927aa61d72ee2fae5205cafbe0b8f58c2eb498f8f9ed581b4aa1b24e2da
-Section: Fonts
-Description: Use Snowboard Font Extension to enable the font.
-Author: Alex Man
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json&name=Font%20Mikhak%2085%&dev=Phuc%20Do
-Icon: https://dobabaophuc1706.github.io/repo/package/FontMikhak/icon.png
-Name: Font Mikhak 85%
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontMikhak/SileoDepiction.json
-
 Package: com.phucdo.FontCoconPro100
 Version: 1.0
 Architecture: iphoneos-arm
@@ -387,7 +315,7 @@ SHA1: 644ff3ab7261843fca9bfd5425b19a43a2aa3c7f
 SHA256: aed4f6450b271a41135a69223a05fd56eda7715f3adfc72195b8fb2c831c20b0
 Section: Fonts
 Description: Use Snowboard Font Extension to enable the font.
-Author: Alex Man
+Author: p0s3id0n
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro%20100%&dev=Phuc%20Do
 Icon: https://dobabaophuc1706.github.io/repo/package/FontCoconPro/icon.png
 Name: Font Cocon Pro 100%
@@ -405,7 +333,7 @@ SHA1: 24292e2fc7f013651683ed98196d61f483f91c3f
 SHA256: ebc9b85bd411de1c57906efc83f0cf86639fcdda3e6f2aa5a37acbd2e853738a
 Section: Fonts
 Description: Use Snowboard Font Extension to enable the font.
-Author: Alex Man
+Author: p0s3id0n
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro%20100%&dev=Phuc%20Do
 Icon: https://dobabaophuc1706.github.io/repo/package/FontCoconPro/icon.png
 Name: Font Cocon Pro 100%
@@ -446,42 +374,6 @@ Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json
 Icon: https://dobabaophuc1706.github.io/repo/package/HuiFont/icon.png
 Name: ふい字 - HuiFont
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/HuiFont/SileoDepiction.json
-
-Package: com.phucdo.FontTrakyaRounded100
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Phuc Do
-Depends: com.spark.snowboard.fonts, com.spark.snowboard
-Filename: ./package/FontTrakyaRounded/com.phucdo.FontTrakyaRounded100_1.0_iphoneos-arm64.deb
-Size: 10831872
-MD5sum: 1fa7e9ac0a53653b7fb8da98ec13470e
-SHA1: 758e3587ee9207fd449c34182cab2393a4da83c2
-SHA256: 607c6fdfd99e2ea047f1ed9ee6ad48b0c0a56dccb040bba0d920775e5ad41715
-Section: Fonts
-Description: Use Snowboard Font Extension to enable the font.
-Author: Alex Man
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json&name=Font%20Trakya%20Rounded%20100%&dev=Phuc%20Do
-Icon: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/icon.png
-Name: Font Trakya Rounded 100%
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json
-
-Package: com.phucdo.FontTrakyaRounded85
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Phuc Do
-Depends: com.spark.snowboard.fonts, com.spark.snowboard
-Filename: ./package/FontTrakyaRounded/com.phucdo.FontTrakyaRounded85_1.0_iphoneos-arm64.deb
-Size: 11502604
-MD5sum: 2492bff5f9bac0cc9520c089fe3d01b4
-SHA1: e6e84f69e1f8317cddd5b40bb10819b50c0fed8b
-SHA256: 0e4e2f16daab9aaeb15970065191027b6426bb6a6f1427a0c9afdc74ab6c5350
-Section: Fonts
-Description: Use Snowboard Font Extension to enable the font.
-Author: Alex Man
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json&name=Font%20Trakya%20Rounded%2085%&dev=Phuc%20Do
-Icon: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/icon.png
-Name: Font Trakya Rounded 85%
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/FontTrakyaRounded/SileoDepiction.json
 
 Package: com.phucdo.FontTrakyaRoundedEdition85
 Version: 1.0
