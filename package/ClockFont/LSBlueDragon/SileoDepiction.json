@@ -1,4 +1,3 @@
-{
     "class": "DepictionTabView",
     "headerImage": "https://dobabaophuc1706.github.io/repo/package/ClockFont/SileoBanner.png",
     "tabs": [
@@ -13,18 +12,8 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/1.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/1.png"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/2.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/2.png"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/3.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/3.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/1.png"
                         }
                     ],
                     "ipad":{
@@ -33,18 +22,8 @@
                         "screenshots":[
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/1.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/1.png"
-                            },
-                            {
-                                "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/2.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/2.png"
-                            },
-                            {
-                                "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/3.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/3.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/1.png"
                             }
                         ],
                         "class":"DepictionScreenshotView"
@@ -58,7 +37,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# LS Lunar 2024 - 3in1 clock font\r\n### Use AIM/AIM Pro tweak to enable the font clock.",
+                    "markdown": "# LS Blue Dragon\r\n### Use AIM/AIM Pro tweak to enable the font clock.",
                     "useSpacing": true
                 },
                 {
@@ -99,7 +78,7 @@
                 {
                     "title":"Tweak Depiction",
                     "tintColor":"#1da1f2",
-                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/SileoDepiction.json&name=LS%20Lunar%202024&dev=Phuc%20Do",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/SileoDepiction.json&name=LS%20Blue%20Dragon&dev=Phuc%20Do",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -128,7 +107,7 @@
                     "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
-                }               
+                }                
             ]
         }
     ],

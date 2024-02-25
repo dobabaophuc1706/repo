@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://dobabaophuc1706.github.io/repo/package/ClockFont/SileoBanner.png",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/PUBG-RSD/SileoBanner.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -13,18 +13,8 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/1.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/1.png"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/2.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/2.png"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/3.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/3.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/1.png"
                         }
                     ],
                     "ipad":{
@@ -33,18 +23,8 @@
                         "screenshots":[
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/1.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/1.png"
-                            },
-                            {
-                                "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/2.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/2.png"
-                            },
-                            {
-                                "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/3.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/3.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/1.png"
                             }
                         ],
                         "class":"DepictionScreenshotView"
@@ -58,7 +38,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# LS Lunar 2024 - 3in1 clock font\r\n### Use AIM/AIM Pro tweak to enable the font clock.",
+                    "markdown": "# PUBG hack by RSDMOD\r\n### AFTER LAST KILL GO TO EXTRA AND ON FULL CLEAN THEN RESTART THE GAME",
                     "useSpacing": true
                 },
                 {
@@ -80,12 +60,12 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Phuc Do",
+                    "text": "CyberCat",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Clock Fonts",
+                    "text": "Tweaks",
                     "title": "Section",
                     "class": "DepictionTableTextView"
                 },               
@@ -99,7 +79,7 @@
                 {
                     "title":"Tweak Depiction",
                     "tintColor":"#1da1f2",
-                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/SileoDepiction.json&name=LS%20Lunar%202024&dev=Phuc%20Do",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json&name=PUBG%20RSD&dev=CyberCat",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -128,7 +108,7 @@
                     "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
-                }               
+                }                
             ]
         }
     ],
