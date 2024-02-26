@@ -20,16 +20,6 @@
                             "accessibilityText":"Screenshot",
                             "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/2.png",
                             "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/2.png"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/3.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/3.png"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/4.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/4.png"
                         }
                     ],
                     "ipad":{
@@ -45,16 +35,6 @@
                                 "accessibilityText":"Screenshot",
                                 "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/2.png",
                                 "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/2.png"
-                            },
-                            {
-                                "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/3.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/3.png"
-                            },
-                            {
-                                "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/4.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/4.png"
                             }
                         ],
                         "class":"DepictionScreenshotView"
@@ -138,7 +118,8 @@
                     "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
-                }               
+                }
+                
             ]
         }
     ],
