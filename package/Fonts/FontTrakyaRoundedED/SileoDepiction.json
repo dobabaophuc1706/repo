@@ -13,23 +13,23 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/1.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/1.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/1.png"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/2.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/2.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/2.png"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/3.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/3.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/3.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/3.png"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/4.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/4.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/4.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/4.png"
                         }
                     ],
                     "ipad":{
@@ -38,23 +38,23 @@
                         "screenshots":[
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/1.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/1.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/1.png"
                             },
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/2.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/2.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/2.png"
                             },
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/3.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/3.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/3.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/3.png"
                             },
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/4.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/4.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/4.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/4.png"
                             }
                         ],
                         "class":"DepictionScreenshotView"
@@ -109,7 +109,7 @@
                 {
                     "title":"Tweak Depiction",
                     "tintColor":"#1da1f2",
-                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaED/SileoDepiction.json&name=Font%20Trakya%20Rounded%20Edition&dev=YangJiii",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/SileoDepiction.json&name=Font%20Trakya%20Rounded%20Edition&dev=YangJiii",
                     "class": "DepictionTableButtonView"
                 },
                 {
