@@ -71,6 +71,40 @@ Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json
 Name: PUBG RSDMODS
 
+Package: com.phucdo.AppleSymbols
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AppleSymbols_1.0_iphoneos-arm.deb
+Size: 360456
+MD5sum: 5b38cf704ea446f1298235aa48e965e6
+SHA1: 35a3b6bd89cc5a546c8b92dcea39705db5d7508a
+SHA256: 51482832142d1b7f4aaadb45845bee85c6432433ef5dc30dd1910e5fee1e9b4d
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/AppleSymbols/SileoDepiction.json&name=AppleSymbols&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/AppleSymbols/SileoDepiction.json
+Name: Apple Symbols
+
+Package: com.phucdo.AppleSymbols
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AppleSymbols_1.0_iphoneos-arm64.deb
+Size: 360448
+MD5sum: 44b61e37e25f86359a2bac6553916ffe
+SHA1: 25249125a79b415a95c4728e2758ca3ffd503f5c
+SHA256: eebf889870cb1bf2925743cfdd0fbc1e4498d8a9f012e70b636902e2e061bf1d
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/AppleSymbols/SileoDepiction.json&name=AppleSymbols&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/AppleSymbols/SileoDepiction.json
+Name: Apple Symbols
+
 Package: com.phucdo.FontCoconPro
 Version: 1.0
 Architecture: iphoneos-arm
@@ -620,3 +654,37 @@ Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/SileoDepiction.json&nameLS%20UI%20Slender&dev=PhucDo
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/SileoDepiction.json
 Name: LS UI Slender
+
+Package: com.phucdo.TrollColor
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.TrollColor_1.0_iphoneos-arm64.deb
+Size: 246316
+MD5sum: 0f665bdae599a6338eb54c36d015b603
+SHA1: 975fec8bd4e1a15680d176c97e4b0d784d597343
+SHA256: 449d1dec0e0b0447422df0b193b9bbdb32e81cecca038007e0ee71824b74a987
+Section: LS UI
+Description: TrollStore icons collection.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json&nameTrollColor&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json
+Name: TrollColor
+
+Package: com.phucdo.TrollColor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.TrollColor_1.0_iphoneos-arm.deb
+Size: 246292
+MD5sum: 38aa5eca5e88b5cfd08e32a6fa1a49eb
+SHA1: d21c546bb1f5ec190750d4fe18b9cf1dca3c5d55
+SHA256: 1753122d134a250fe7d11526c5da24b8915d937fc9a39ea0e586c279a9921198
+Section: LS UI
+Description: TrollStore icons collection.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json&nameTrollColor&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json
+Name: TrollColor
