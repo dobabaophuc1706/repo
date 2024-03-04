@@ -664,7 +664,7 @@ Size: 246316
 MD5sum: 0f665bdae599a6338eb54c36d015b603
 SHA1: 975fec8bd4e1a15680d176c97e4b0d784d597343
 SHA256: 449d1dec0e0b0447422df0b193b9bbdb32e81cecca038007e0ee71824b74a987
-Section: LS UI
+Section: Themes
 Description: TrollStore icons collection.
 Author: Phuc Do
 Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
@@ -681,7 +681,7 @@ Size: 246292
 MD5sum: 38aa5eca5e88b5cfd08e32a6fa1a49eb
 SHA1: d21c546bb1f5ec190750d4fe18b9cf1dca3c5d55
 SHA256: 1753122d134a250fe7d11526c5da24b8915d937fc9a39ea0e586c279a9921198
-Section: LS UI
+Section: Themes
 Description: TrollStore icons collection.
 Author: Phuc Do
 Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
