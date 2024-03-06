@@ -688,3 +688,37 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json&nameTrollColor&dev=PhucDo
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json
 Name: TrollColor
+
+Package: com.phucdo.XiguaUI
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.XiguaUI_1.0_iphoneos-arm.deb
+Size: 37845724
+MD5sum: 210d10b81942a1ceec2a1f9a33c1d1d3
+SHA1: bddae9d7e585953c6051bee6d62210d4a2dc1434
+SHA256: c3ea0dd00a09381dbd9f8cb63ec886ed6de002c2694778dc6d31278bb4777e9c
+Section: Themes
+Description: iOS UI.
+Author: Unknown
+Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/XiguaUI/SileoDepiction.json&nameXigua%20UI&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json
+Name: Xigua UI
+
+Package: com.phucdo.XiguaUI
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.XiguaUI_1.0_iphoneos-arm64.deb
+Size: 37831772
+MD5sum: 61c7b000565fd8f2664d5660f6b71f91
+SHA1: 63796a7852564502f08bdbc556575f166cdaaa90
+SHA256: 26e456ae5c87a7f20eb1a7a436604494148d2c3931005cfb0fb98f61fd62b799
+Section: Themes
+Description: iOS UI.
+Author: Unknown
+Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/XiguaUI/SileoDepiction.json&nameXigua%20UI&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json
+Name: Xigua UI
