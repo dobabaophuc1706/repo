@@ -48,7 +48,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Glasklart Settings UI",
+                    "markdown": "# Glasklart Settings UI\r\n\r\n# How to Apply the Setting UI\r\nUse Snowboard Setting Icons Extension to enable Glasklart Settings UI\r\n\r\n# What's in it\r\n- More than 60 icons in this pack\r\n- Full Setting icons\r\n- Full Apple default apps",
                     "useSpacing": true
                 },
                 {
