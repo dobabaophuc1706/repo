@@ -48,7 +48,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Mask Blur and Border \r\n\r\n# How to Apply the Mask\r\nFor jailbroken devices, you will need Snowboard theme engine and Snowboard Mask Extension from SparkDev's repo.",
+                    "markdown": "# Mask Blur and Border \r\n\r\n# How to Apply the Mask\r\nFor jailbroken devices, you will need Snowboard theme engine and Snowboard Icon Masks Extension from SparkDev's repo.",
                     "useSpacing": true
                 },
                 {

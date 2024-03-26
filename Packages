@@ -766,12 +766,13 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskBlurBorder_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard, com.spark.snowboard.masks
 Size: 74208
 MD5sum: 119c53dfecc5615f99e0c6e96668ad97
 SHA1: 83575926f06d74a7935732420eba86dcb79e857d
 SHA256: afa5b5dcf79b555b41d341cce9f2ab3abe5f740895ac162a6b7dcee4f8d40500
 Section: Mask & AE
-Description: Use Snowboard Mask Extension to enable the mask/AE.
+Description: Use Snowboard Icon Masks Extension to enable the mask/AE.
 Author: Phuc Do
 Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskBlurBorder/SileoDepiction.json&name=Mask%20Blur%20and%20Border&dev=PhucDo
@@ -783,12 +784,13 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskBlurBorder_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard, com.spark.snowboard.masks
 Size: 74248
 MD5sum: 78aff10315ebf06382df03fd30348282
 SHA1: 539f789a49d2160eeaaed815f251a544d028645c
 SHA256: b21dc207d81ea01d9a688d08330e829956c3107040caf86b787c6e30771b0758
 Section: Mask & AE
-Description: Use Snowboard Mask Extension to enable the mask/AE.
+Description: Use Snowboard Icon Masks Extension to enable the mask/AE.
 Author: Phuc Do
 Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskBlurBorder/SileoDepiction.json&name=Mask%20Blur%20and%20Border&dev=PhucDo
@@ -800,12 +802,13 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskPainting_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard, com.spark.snowboard.masks
 Size: 91740
 MD5sum: 23e56d37ffc8021ac00bc10e890ffa8f
 SHA1: 2e9ea73009a0f4aa312296c704297b08a0cb7741
 SHA256: 95af11119fcb2787b320dc5e17e58f854277195d9150d3ff948b91cb3c37e8b4
 Section: Mask & AE
-Description: Use Snowboard Mask Extension to enable the mask/AE.
+Description: Use Snowboard Icon Masks Extension to enable the mask/AE.
 Author: Phuc Do
 Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskPainting/SileoDepiction.json&name=Mask%20Painting&dev=PhucDo
@@ -817,12 +820,13 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskPainting_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard, com.spark.snowboard.masks
 Size: 91660
 MD5sum: 4d36668a6276c114e227186f428b9367
 SHA1: fadc2276f8c3de43693d2be72d47469f7ebda2b2
 SHA256: c589d765206a5dcf7e29f8e822de5273435c9ae2451a229de6921a8b3f0b523e
 Section: Mask & AE
-Description: Use Snowboard Mask Extension to enable the mask/AE.
+Description: Use Snowboard Icon Masks Extension to enable the mask/AE.
 Author: Phuc Do
 Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskPainting/SileoDepiction.json&name=Mask%20Painting&dev=PhucDo
@@ -866,3 +870,39 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/SileoDepiction.json&name= PreferenceLocalizer&dev=MTAC
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/SileoDepiction.json
 Name: PreferenceLocalizer
+
+Package: com.phucdo.AEWatchUltra
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AEWatchUltra_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard, com.spark.snowboard.effects
+Size: 112820
+MD5sum: 1319919e3ec245a844738dd2c1aeefd6
+SHA1: 97a211da155fc4ed0260ce282693441a6234e0ad
+SHA256: 5271376a9445fe34cbd83c391fb51005edb9e25a574c333f36fa00cb2cd3d8e1
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/AE.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json&name= AE%20Watch%20Ultra&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json
+Name: AE Watch Ultra
+
+Package: com.phucdo.AEWatchUltra
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AEWatchUltra_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard, com.spark.snowboard.effects
+Size: 112840
+MD5sum: dc9a4e849005c4fd739814262192fc8a
+SHA1: 4b7233ce6ea5035989fac4fcc10be92db5d3667b
+SHA256: b050497fb6dcc62117001ec9a91fd32c5d0debc1017dbe23b8b4fec024a77467
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/AE.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json&name= AE%20Watch%20Ultra&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json
+Name: AE Watch Ultra
