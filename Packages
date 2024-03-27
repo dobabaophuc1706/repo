@@ -698,7 +698,7 @@ Size: 370152
 MD5sum: f2d2c56d83037f42a0fefd85fb4facce
 SHA1: 75e23e0eea9f2f2b79d296f0cf9248b812a1d637
 SHA256: 3962375510695b0ea56cdc5c140c4e6b92a0126ca7fe0f9607ca4738f51ec9e2
-Section: Themes
+Section: Setting Themes
 Description: Glasklart Settings UI.
 Author: Phuc Do
 Icon: https://dobabaophuc1706.github.io/repo/package/Themes/setting.png
@@ -715,7 +715,7 @@ Size: 370712
 MD5sum: 14a9c96f5e6951ceaf30d029f6c6af06
 SHA1: d25d575820dc29b5be6e6e83f9c4e34b28ebcf1c
 SHA256: f5432c7eab09158737ca60fbab51ae0de54195a3acfb0475809ec1d62efa53bd
-Section: Themes
+Section: Setting Themes
 Description: Glasklart Settings UI.
 Author: Phuc Do
 Icon: https://dobabaophuc1706.github.io/repo/package/Themes/setting.png
