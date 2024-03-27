@@ -701,9 +701,9 @@ SHA256: 3962375510695b0ea56cdc5c140c4e6b92a0126ca7fe0f9607ca4738f51ec9e2
 Section: Setting Themes
 Description: Glasklart Settings UI.
 Author: Phuc Do
-Icon: https://dobabaophuc1706.github.io/repo/package/Themes/setting.png
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/SileoDepiction.json&name Glasklart%20Settings&dev=PhucDo
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/SileoDepiction.json
+Icon: https://dobabaophuc1706.github.io/repo/package/SettingThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json&name Glasklart%20Settings&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json
 Name: Glasklart Settings
 
 Package: com.phucdo.Glasklart
@@ -718,9 +718,9 @@ SHA256: f5432c7eab09158737ca60fbab51ae0de54195a3acfb0475809ec1d62efa53bd
 Section: Setting Themes
 Description: Glasklart Settings UI.
 Author: Phuc Do
-Icon: https://dobabaophuc1706.github.io/repo/package/Themes/setting.png
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/SileoDepiction.json&name Glasklart%20Settings&dev=PhucDo
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/SileoDepiction.json
+Icon: https://dobabaophuc1706.github.io/repo/package/SettingThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json&name Glasklart%20Settings&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json
 Name: Glasklart Settings
 
 Package: com.phucdo.miuminuipro

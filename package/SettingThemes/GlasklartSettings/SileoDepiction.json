@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://dobabaophuc1706.github.io/repo/package/Themes/SileoBanner-Setting.png",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/SettingThemes/SileoBanner.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -13,13 +13,13 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/1.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/1.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/1.png"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/2.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/2.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/2.png"
                         }
                     ],
                     "ipad":{
@@ -28,13 +28,13 @@
                         "screenshots":[
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/1.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/1.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/1.png"
                             },
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/2.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/2.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/2.png"
                             }
                         ],
                         "class":"DepictionScreenshotView"
@@ -75,7 +75,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Setting Themes",
+                    "text": "Setting SettingThemes",
                     "title": "Section",
                     "class": "DepictionTableTextView"
                 },               
@@ -89,7 +89,7 @@
                 {
                     "title":"Tweak Depiction",
                     "tintColor":"#1da1f2",
-                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/GlasklartSettings/SileoDepiction.json&name=Glasklart%20Settings&dev=PhucDo",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json&name=Glasklart%20Settings&dev=PhucDo",
                     "class": "DepictionTableButtonView"
                 },
                 {
