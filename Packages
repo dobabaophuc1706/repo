@@ -766,7 +766,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskBlurBorder_1.0_iphoneos-arm.deb
-Depends: com.spark.snowboard, com.spark.snowboard.masks
+Depends: com.spark.snowboard.masks
 Size: 74208
 MD5sum: 119c53dfecc5615f99e0c6e96668ad97
 SHA1: 83575926f06d74a7935732420eba86dcb79e857d
@@ -784,7 +784,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskBlurBorder_1.0_iphoneos-arm64.deb
-Depends: com.spark.snowboard, com.spark.snowboard.masks
+Depends: com.spark.snowboard.masks
 Size: 74248
 MD5sum: 78aff10315ebf06382df03fd30348282
 SHA1: 539f789a49d2160eeaaed815f251a544d028645c
@@ -802,7 +802,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskPainting_1.0_iphoneos-arm64.deb
-Depends: com.spark.snowboard, com.spark.snowboard.masks
+Depends: com.spark.snowboard.masks
 Size: 91740
 MD5sum: 23e56d37ffc8021ac00bc10e890ffa8f
 SHA1: 2e9ea73009a0f4aa312296c704297b08a0cb7741
@@ -820,7 +820,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskPainting_1.0_iphoneos-arm.deb
-Depends: com.spark.snowboard, com.spark.snowboard.masks
+Depends: com.spark.snowboard.masks
 Size: 91660
 MD5sum: 4d36668a6276c114e227186f428b9367
 SHA1: fadc2276f8c3de43693d2be72d47469f7ebda2b2
@@ -876,7 +876,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.AEWatchUltra_1.0_iphoneos-arm.deb
-Depends: com.spark.snowboard, com.spark.snowboard.effects
+Depends: com.spark.snowboard.effects
 Size: 112820
 MD5sum: 1319919e3ec245a844738dd2c1aeefd6
 SHA1: 97a211da155fc4ed0260ce282693441a6234e0ad
@@ -894,7 +894,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.AEWatchUltra_1.0_iphoneos-arm64.deb
-Depends: com.spark.snowboard, com.spark.snowboard.effects
+Depends: com.spark.snowboard.effects
 Size: 112840
 MD5sum: dc9a4e849005c4fd739814262192fc8a
 SHA1: 4b7233ce6ea5035989fac4fcc10be92db5d3667b
@@ -946,6 +946,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.VisionOSDock_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard.dock
 Size: 495436
 MD5sum: d7c3922b563c2a62e45fc868bad35896
 SHA1: 793a6682ffee820012e8497ca66014a56f8f045f
@@ -963,6 +964,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.VisionOSDock_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard.dock
 Size: 495308
 MD5sum: 2b205833f4fb03d657710eaa27b9600d
 SHA1: 1e2c0ddd5de1104840cc5e8db137c667ec35b7a0
