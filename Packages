@@ -16,6 +16,38 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
 Name: Macaron
 Sileodepiction: https://havoc.app/package/macaron/depiction.json
 
+Package: ch.mdaus.latchkey
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/ch.mdaus.latchkey_2.3_iphoneos-arm64.deb
+Size: 5725804
+MD5sum: 20c2f3845e5b04241ca3be89004154d6
+SHA1: 13e59ebfd6dd834db932931f8b47c39cfe21e666
+SHA256: 1464e8d97548cf416d13d3befce7476a527c4afeb2643a81840ce521c902978b
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/latchkey.png
+Name: LatchKey
+
+Package: ch.mdaus.latchkey
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Maxwell Dausch
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/ch.mdaus.latchkey_2.3_iphoneos-arm.deb
+Size: 5723864
+MD5sum: 0ef529e47da1a666af2ee3e72e64b10c
+SHA1: 73fb47ddb12cf791e0e77989a14b1ab93fe57b58
+SHA256: 3f0f1e91b8957230c59c9c3d9146cbfbe917b78528151aa27e2275c24f3f191a
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/latchkey.png
+Name: LatchKey
+
 Package: com.pubg.rsdmods
 Version: 1.2.2
 Architecture: iphoneos-arm
@@ -976,3 +1008,39 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/VisionOSDock/SileoDepiction.json&name=VisionOS%20Dock&dev=YangJiii
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/VisionOSDock/SileoDepiction.json
 Name: VisionOS Dock
+
+Package: com.phucdo.Lock14Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.Lock14Pro_1.0_iphoneos-arm64.deb
+Depends: ch.mdaus.latchkey
+Size: 3052
+MD5sum: 3fe61cb589de96622e54541826eea6e6
+SHA1: 56e6d939bf4a0a3aed60ce6d97651c6f07a7e935
+SHA256: cbfcd51fa9c097cd00f9523c4d401ccf92e17a3e070f99794a3e6fd9cf232594
+Section: Lock Themes
+Description: Change your FaceID icon now!
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json&name=Lock%2014%20Pro&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json
+Name: Lock 14 Pro
+
+Package: com.phucdo.Lock14Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.Lock14Pro_1.0_iphoneos-arm.deb
+Depends: ch.mdaus.latchkey
+Size: 3020
+MD5sum: 573dbfb8da547895e85e0b3199e20289
+SHA1: 507a53e6cd38976f9eb10e67b91cbe4eee7367a1
+SHA256: 1c45956bac3d6afab4a636ebd05c834b219d19e21d296a78c45a8125b24cf7d2
+Section: Lock Themes
+Description: Change your FaceID icon now!
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json&name=Lock%2014%20Pro&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json
+Name: Lock 14 Pro
