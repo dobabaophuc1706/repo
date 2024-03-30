@@ -29,7 +29,7 @@ SHA256: 1464e8d97548cf416d13d3befce7476a527c4afeb2643a81840ce521c902978b
 Section: Tweaks
 Description: Move and theme the Face-ID lock glyph
 Author: Maxwell Dausch
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/latchkey.png
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
 Name: LatchKey
 
 Package: ch.mdaus.latchkey
@@ -45,7 +45,7 @@ SHA256: 3f0f1e91b8957230c59c9c3d9146cbfbe917b78528151aa27e2275c24f3f191a
 Section: Tweaks
 Description: Move and theme the Face-ID lock glyph
 Author: Maxwell Dausch
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/latchkey.png
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
 Name: LatchKey
 
 Package: com.pubg.rsdmods
