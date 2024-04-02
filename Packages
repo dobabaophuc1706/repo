@@ -16,6 +16,42 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
 Name: Macaron
 Sileodepiction: https://havoc.app/package/macaron/depiction.json
 
+Package: com.spark.snowboard.respringextension
+Version: 1.0.7~Beta3
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: mobilesubstrate, com.spark.snowboard, emt.paisseon.xinamineall
+Provides: com.spark.snowboard.respringextension (= 1.0.7~Beta3)
+Filename: ./debs/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
+Size: 41908
+MD5sum: 5216a53edc20c04c923706d05d210e23
+SHA1: 68ed49ad644dadb48f1cbcfedac63e028fec76bf
+SHA256: a815f5258652f3538da765559391b8f51fdf11f35bbfedbc8cbef98ef43072d9
+Section: Tweaks
+Description: Respring icon extension for SnowBoard
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.respringextension
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.respringextension
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Author: Spark
+Name: SnowBoard Respring Extension
+
+Package: emt.paisseon.xinamineall
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: mobilesubstrate, ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0), file, gawk, odcctools, ldid, com.tigisoftware.filza64bit (>= 4.0)
+Provides: emt.paisseon.xinamine (= 0.0.5)
+Filename: ./debs/emt.paisseon.xinamineall_1.8.2_iphoneos-arm64.deb
+Size: 71716
+MD5sum: 4c7f3ad082072d73f9e3a49749fd68a2
+SHA1: 787fce9fb05a7b0d58f38387faf7af791b21eb69
+SHA256: 086c89354062977cc566a00ff9f7adba3e2bf9354dd6971d00d2e0c2deabd393
+Section: Tweaks
+Description: Xinamine bundle. Includes linker, patcher, and 'chex' link checker, plus other supporting filza scripts.
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Author: Paisseon, Sudo, NoW4U2Kid
+Name: Xinam1ne All-in-One
+
 Package: ch.mdaus.latchkey
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -49,15 +85,35 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
 Name: LatchKey
 
 Package: com.pubg.rsdmods
-Version: 1.2.2
+Version: 10.5
 Architecture: iphoneos-arm
 Maintainer: CyberCat
+Installed-Size: 1620
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.pubg.rsdmods_1.2.2_iphoneos-arm.deb
-Size: 4178552
-MD5sum: 06e6e9e8382301615b2eef7c149ad31b
-SHA1: 4838ee55fc086382aac0e5d3f9c109e50daa358e
-SHA256: e1fba576afb68156d604e38c015e9d208e5f4248ad572c74231e779130d7579c
+Size: 5512980
+MD5sum: cdc900a6c538bbb98df38ba8e4592a75
+SHA1: 21d2898621eb20712006d5602b7a905bd6cbf769
+SHA256: 78a4bd2c6adfa7518ba60ec583d0f6a7e9e3fd51873fb17b732460205fa497e1
+Section: Tweaks
+Description: PUBG hack for IOS.
+Author: CyberCat
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/game.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json&name=PUBG%20RSD&dev=CyberCat
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json
+Name: PUBG RSDMODS
+
+Package: com.pubg.rsdmods
+Version: 10.5
+Architecture: iphoneos-arm64
+Maintainer: CyberCat
+Installed-Size: 1620
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.pubg.rsdmods_1.2.2_iphoneos-arm64.deb
+Size: 5513080
+MD5sum: 8f26999d5bbe5354fcb2115aa8de4ec0
+SHA1: 5818d4b5841ff7b93ce2fb5d334991519777caee
+SHA256: 63682c2d5f22e361fedbd2a96f9a4c28b52f3efe31044f104800b7401bd1cd9d
 Section: Tweaks
 Description: PUBG hack for IOS.
 Author: CyberCat
@@ -84,24 +140,6 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/apps.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/LocketGold/SileoDepiction.json&name=PUBG%20RSD&dev=CyberCat
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/LocketGold/SileoDepiction.json
 Name: Locket Gold
-
-Package: com.pubg.rsdmods
-Version: 1.2.2
-Architecture: iphoneos-arm64
-Maintainer: CyberCat
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.pubg.rsdmods_1.2.2_iphoneos-arm64.deb
-Size: 4178420
-MD5sum: ec612deb2ca919550d31906565693d2d
-SHA1: 40dd167a614239ddc0062faae1633cad2125e00b
-SHA256: c7236c739c94a5a6cc398ab9a067fe32c484b992751111bc299dab46047b13f7
-Section: Tweaks
-Description: PUBG hack for IOS.
-Author: CyberCat
-Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/game.png
-Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json&name=PUBG%20RSD&dev=CyberCat
-Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json
-Name: PUBG RSDMODS
 
 Package: com.phucdo.AppleSymbols
 Version: 1.0
@@ -1078,3 +1116,37 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json&name=Lock%20HandSome%20Dog&dev=YangJiii
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json
 Name: Lock HandSome Dog
+
+Package: com.phucdo.RespringCuteBear
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.RespringCuteBear_1.0_iphoneos-arm64.deb
+Size: 92712
+MD5sum: 16dd834d7b70267999a9f4ceee5420bd
+SHA1: 1a368721001ea49214da70e18003b4d4bdca0e8b
+SHA256: 89697167c9533d35c78c352730b9805cc26d135bdfbd8b44ea587ae5e748f18d
+Section: Respring Themes
+Description: Use SnowBoard Respring Extension to enable respring theme!
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/RespringThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json&name=Respring%20Cute%20Bear&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json
+Name: Respring Cute Bear
+
+Package: com.phucdo.RespringCuteBear
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.RespringCuteBear_1.0_iphoneos-arm.deb
+Size: 92636
+MD5sum: 8ffb7c34abab0c89428c401d1ee20a6d
+SHA1: 0645a032af0e9f6fa173fc4fa5fe1db5203029ce
+SHA256: 173d8b2d5ca15bfb8542eba57c210e3d013156e7e1e7bcbfb8b77cbe8458986e
+Section: Respring Themes
+Description: Use SnowBoard Respring Extension to enable respring theme!
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/RespringThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json&name=Respring%20Cute%20Bear&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json
+Name: Respring Cute Bear
