@@ -1044,3 +1044,37 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json&name=Lock%2014%20Pro&dev=PhucDo
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json
 Name: Lock 14 Pro
+
+Package: com.phucdo.LockHandSomeDog
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LockHandSomeDog_1.0_iphoneos-arm.deb
+Size: 1477604
+MD5sum: 66f37a8e023c3cf404b9158692813c0c
+SHA1: b87302c29dad3574864c3046748649ec718ee48c
+SHA256: f3256d8cb60287225444e2fb20a68ce1f8f6b9cabbd907f32dd36281615157a3
+Section: Lock Themes
+Description: Change your FaceID icon now!
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json&name=Lock%20HandSome%20Dog&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json
+Name: Lock HandSome Dog
+
+Package: com.phucdo.LockHandSomeDog
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LockHandSomeDog_1.0_iphoneos-arm64.deb
+Size: 1477620
+MD5sum: dc2ee9a3e586c9764a3caf34e6a78736
+SHA1: 6acd5ff914ed343f872894056ccd5b065fb9898c
+SHA256: 71208ba1209d262f99f7ccf2b9f529d78f61564ce010c035e7717bf378ea955f
+Section: Lock Themes
+Description: Change your FaceID icon now!
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json&name=Lock%20HandSome%20Dog&dev=YangJiii
+Sileodepiction: https://
+Name: Lock HandSome Dog
