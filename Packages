@@ -1164,7 +1164,7 @@ SHA256: d8b9794425beabab3e5cc8cfa428c00d80aef45b893b39271db114eef637fc9a
 Section: Mask & AE
 Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
 Author: Phuc Do
-Icon: https://dobabaophuc1706.github.io/repo/package/MaskBlurBorder/AE.png
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/AE.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json&name= AE%20Television&dev=PhucDo
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json
 Name: AE Television
@@ -1182,7 +1182,7 @@ SHA256: 90b154ec70ed19229ed9f057cd7899e62c9594d9f1f02e7f6d210da7c5cdea84
 Section: Mask & AE
 Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
 Author: Phuc Do
-Icon: https://dobabaophuc1706.github.io/repo/package/MaskBlurBorder/AE.png
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/AE.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json&name= AE%20Television&dev=PhucDo
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json
 Name: AE Television
