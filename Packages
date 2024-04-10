@@ -1150,3 +1150,111 @@ Icon: https://dobabaophuc1706.github.io/repo/package/RespringThemes/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json&name=Respring%20Cute%20Bear&dev=PhucDo
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json
 Name: Respring Cute Bear
+
+Package: com.phucdo.AETelevision
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AETelevision_1.0_iphoneos-arm.deb
+Size: 131496
+Depends: com.spark.snowboard.effects
+MD5sum: 5d3a35cf1d4765eb0165e203caf4e14c
+SHA1: b40b5d3d65eafb1710b9a1e2b254da8c7875535e
+SHA256: d8b9794425beabab3e5cc8cfa428c00d80aef45b893b39271db114eef637fc9a
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskBlurBorder/AE.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json&name= AE%20Television&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json
+Name: AE Television
+
+Package: com.phucdo.AETelevision
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AETelevision_1.0_iphoneos-arm64.deb
+Size: 131544
+Depends: com.spark.snowboard.effects
+MD5sum: 73b753a15f0faca982177d07e026fe6e
+SHA1: 2bf36c54a9ccb2277fbd179a776d4fd035f6dab4
+SHA256: 90b154ec70ed19229ed9f057cd7899e62c9594d9f1f02e7f6d210da7c5cdea84
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskBlurBorder/AE.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json&name= AE%20Television&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json
+Name: AE Television
+
+Package: com.phucdo.BadgeVSGhu3hi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.BadgeVSGhu3hi_1.0_iphoneos-arm.deb
+Size: 63472
+Depends: com.spark.snowboard, firmware (<< 16.0)
+MD5sum: a7f0e08ba4f3aaf19d7740c5b0ddf677
+SHA1: 9bb9dd66d9f5d6e44d1467a4a67e9ae597451e14
+SHA256: 1cd2c041ecbfe15a0d7d72f098716cce289130cffdfbf0aa4262c9c1de87bbd4
+Section: Badge Themes
+Description: Badge theme for ios 15 and older!
+Author: Gushi
+Icon: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json&name= Badge%20VS%20Gu3hi&dev=Gu3hi
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json
+Name: Badge VS Gu3hi
+
+Package: com.phucdo.BadgeVSGhu3hi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.BadgeVSGhu3hi_1.0_iphoneos-arm64.deb
+Size: 63500
+Depends: com.spark.snowboard, firmware (<< 16.0)
+MD5sum: bd02c39a580adaa7d855848881580978
+SHA1: be582c1fc1afc0a3694dbfb643ed1f9be9bd6b74
+SHA256: 2b49b1ee610cff3bba05e576b6aceb8059895a6df98401dfc5a99b927cccc84e
+Section: Badge Themes
+Description: Badge theme for ios 15 and older!
+Author: Gushi
+Icon: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json&name= Badge%20VS%20Gu3hi&dev=Gu3hi
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json
+Name: Badge VS Gu3hi
+
+Package: com.phucdo.Dialer1111
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.Dialer1111_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard.ui
+Size: 1661772
+MD5sum: b0f2d5d3f769e3fdf1f6dc6f52a6028c
+SHA1: d8f6b001cb89e9f23df595645485852a8356b160
+SHA256: b325a6be15052d213f5df8ef7ad94f131b878deaaed583844f3e04df6270e2cc
+Section: Dialer Themes
+Description: Bring to you new passcode & dialer theme!
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/DialerThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/SileoDepiction.json&name= Dialer%201.1.1.1&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/SileoDepiction.json
+Name: Dialer 1.1.1.1
+
+Package: com.phucdo.Dialer1111
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.Dialer1111_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard.ui
+Size: 1661780
+MD5sum: f8e692178fe9f1235029b5bd0ed1fb9a
+SHA1: 37a01c1decccf4e0bf8746a06692bb74de4b9aae
+SHA256: bb14dde300a2ea8bbf9db8b2db843f1e44ff1c4f29562d12e28c2adf276ca9d2
+Section: Dialer Themes
+Description: Bring to you new passcode & dialer theme!
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/DialerThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/SileoDepiction.json&name= Dialer%201.1.1.1&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/SileoDepiction.json
+Name: Dialer 1.1.1.1

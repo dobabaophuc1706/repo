@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://dobabaophuc1706.github.io/repo/package/MaskAE/SileoBannerAE.png",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/DialerThemes/SileoBanner.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -13,13 +13,13 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/1.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/1.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/1.png"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/2.png",
-                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/2.png"
+                            "url":"https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/2.png"
                         }
                     ],
                     "ipad":{
@@ -28,13 +28,13 @@
                         "screenshots":[
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/1.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/1.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/1.png"
                             },
                             {
                                 "accessibilityText":"Screenshot",
-                                "url":"https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/2.png",
-                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/2.png"
+                                "url":"https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/2.png"
                             }
                         ],
                         "class":"DepictionScreenshotView"
@@ -48,7 +48,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# AE Watch Ultra \r\n\r\n# How to Apply the AE\r\nFor jailbroken devices, you will need Snowboard theme engine and Snowboard Icon Effects Extension from SparkDev's repo.",
+                    "markdown": "# Dialer 1.1.1.1\r\n\r\n# How to Apply the Setting UI\r\nUse Snowboard UI Extension to enable the dialer/passcode theme.",
                     "useSpacing": true
                 },
                 {
@@ -70,12 +70,12 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Phuc Do",
+                    "text": "YangJiii",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Mask & AE",
+                    "text": "Dialer Themes",
                     "title": "Section",
                     "class": "DepictionTableTextView"
                 },               
@@ -89,7 +89,7 @@
                 {
                     "title":"Tweak Depiction",
                     "tintColor":"#1da1f2",
-                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json&name=AE%20Watch%20Ultra&dev=PhucDo",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/DialerThemes/Dialer1111/SileoDepiction.json&name=Dialer%201.1.1.1&dev=YangJiii",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -118,8 +118,7 @@
                     "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
-                }
-                
+                }               
             ]
         }
     ],
