@@ -48,7 +48,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Dialer 1.1.1.1\r\n\r\n# How to Apply the Setting UI\r\nUse Snowboard UI Extension to enable the dialer/passcode theme.",
+                    "markdown": "# Dialer 1.1.1.1\r\n\r\n# How to Apply the Dialer\r\nUse Snowboard UI Extension to enable the dialer/passcode theme.",
                     "useSpacing": true
                 },
                 {
