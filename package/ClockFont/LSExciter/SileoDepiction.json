@@ -1,6 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://dobabaophuc1706.github.io/repo/package/ClockFont/SileoBanner.png",
+    "tintColor": "#8b43f3",
     "tabs": [
         {
             "tabname": "Details",

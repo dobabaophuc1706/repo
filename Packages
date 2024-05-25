@@ -1258,3 +1258,37 @@ Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json&name=LS%20Poetsen%20One&dev=PhucDo
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json
 Name: LS Poetsen One
+
+Package: com.phucdo.LSKgSecondChances
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSKgSecondChances_1.0_iphoneos-arm64.deb
+Size: 86068
+MD5sum: c4f2214832945e6c29573f3ab69bcb6b
+SHA1: 01ae05c9f0a2629ab7941df4e41dc34217cfc714
+SHA256: 1063f2f121f08db4fcbd4a7d20527b56861504ef75b864975554968a3d57a85e
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json&name=LS%20KgSecondChances&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json
+Name: LS KgSecondChances
+
+Package: com.phucdo.LSKgSecondChances
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSKgSecondChances_1.0_iphoneos-arm.deb
+Size: 86064
+MD5sum: 68d3b957d15df11a096ea263a00e55d4
+SHA1: c83ba2bb90455e1d856d0ef975200b0983f9ba5e
+SHA256: 4fd37bd67968f6e213e177ccbc2e03d6078f888909149cd079b3308e0120d296
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json&name=LS%20KgSecondChances&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json
+Name: LS KgSecondChances
