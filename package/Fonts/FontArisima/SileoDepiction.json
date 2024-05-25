@@ -1,6 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://dobabaophuc1706.github.io/repo/package/Fonts/SileoBanner.png",
+    "tintColor": "#c34b3b",
     "tabs": [
         {
             "tabname": "Details",
@@ -108,15 +109,22 @@
                 },                
                 {
                     "title":"Tweak Depiction",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#c34b3b",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontArisima/SileoDepiction.json&name=Font%20Arisima&dev=p0s3id0n",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#c34b3b",
                     "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#c34b3b",
+                    "action":"https://paypal.me/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -142,6 +150,5 @@
             ]
         }
     ],
-    "tintColor": "#03a5aa",
     "minVersion": "0.1"
 }

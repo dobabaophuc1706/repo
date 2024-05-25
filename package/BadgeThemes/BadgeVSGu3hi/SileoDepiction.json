@@ -79,18 +79,21 @@
                 },                
                 {
                     "title":"Tweak Depiction",
+                    "tintColor":"#0c9393",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json&name=Badge%20VS%20Gu3hi&dev=Gu3hi",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
+                    "tintColor":"#0c9393",
                     "action":"https://twitter.com/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Support DEV",
+                    "tintColor":"#0c9393",
                     "action":"https://paypal.me/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
