@@ -1222,3 +1222,39 @@ Icon: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json&name= Badge%20VS%20Gu3hi&dev=Gu3hi
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json
 Name: Badge VS Gu3hi
+
+Package: com.phucdo.LSPoetsenOne
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.LSPoetsenOne_1.0_iphoneos-arm.deb
+Size: 74324
+MD5sum: a08e5a087cd0a3207d2c77859e117f78
+SHA1: f51dbb62bb97c5a73754ca915a29ee60f842ed98
+SHA256: 75b0b4569d553ffc183f9f3ebaa7adf9f8c1fb4ed66117edac5404d5281cd6b8
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json&name=LS%20Poetsen%20One&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json
+Name: LS Poetsen One
+
+Package: com.phucdo.LSPoetsenOne
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.LSPoetsenOne_1.0_iphoneos-arm64.deb
+Size: 74400
+MD5sum: 495dadd1bd1066a74df91e67249dac02
+SHA1: 39350cc7e090543ac717046f4e2dfdac4cc61d7c
+SHA256: e4205e2246c5052bd6f78243144a5fd5f3a211dd5ad49064d985ea2be5846f88
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json&name=LS%20Poetsen%20One&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json
+Name: LS Poetsen One
