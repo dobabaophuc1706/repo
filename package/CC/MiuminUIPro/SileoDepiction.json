@@ -1,6 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://dobabaophuc1706.github.io/repo/package/CC/SileoBanner.png",
+    "tintColor": "#e23333",
     "tabs": [
         {
             "tabname": "Details",
@@ -88,15 +89,28 @@
                 },                
                 {
                     "title":"Tweak Depiction",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#e23333",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/SileoDepiction.json&name=Miumin%20UI%20Pro&dev=PhucDo",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#e23333",
                     "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#e23333",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/SileoDepiction.json&name=Miumin%20UI%20Pro&dev=PhucDo",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#e23333",
+                    "action":"https://paypal.me/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
                 {

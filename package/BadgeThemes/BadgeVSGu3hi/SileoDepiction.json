@@ -1,6 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://dobabaophuc1706.github.io/repo/package/BadgeThemes/SileoBanner.png",
+    "tintColor": "#0c9393",
     "tabs": [
         {
             "tabname": "Details",
@@ -78,15 +79,19 @@
                 },                
                 {
                     "title":"Tweak Depiction",
-                    "tintColor":"#1da1f2",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json&name=Badge%20VS%20Gu3hi&dev=Gu3hi",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
-                    "tintColor":"#1da1f2",
                     "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "action":"https://paypal.me/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -113,6 +118,5 @@
             ]
         }
     ],
-    "tintColor": "#03a5aa",
     "minVersion": "0.1"
 }
