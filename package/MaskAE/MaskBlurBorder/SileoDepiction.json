@@ -1,6 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://dobabaophuc1706.github.io/repo/package/MaskAE/SileoBanner.png",
+    "tintColor": "#4b836b",
     "tabs": [
         {
             "tabname": "Details",
@@ -88,15 +89,22 @@
                 },                
                 {
                     "title":"Tweak Depiction",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#4b836b",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskBlurBorder/SileoDepiction.json&name=Mask%20Blur%20and%20Border&dev=PhucDo",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#4b836b",
                     "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#4b836b",
+                    "action":"https://paypal.me/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -123,6 +131,5 @@
             ]
         }
     ],
-    "tintColor": "#03a5aa",
     "minVersion": "0.1"
 }
