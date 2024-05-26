@@ -1,2 +1,2 @@
 cd /Users/dobabaophuc/Documents/GitHub/repo
-dpkg-scanpackages -m ./debs > hehee
+dpkg-scanpackages -m ./debs > iloveyou_curthnaht

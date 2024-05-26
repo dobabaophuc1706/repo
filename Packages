@@ -1292,3 +1292,37 @@ Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
 Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json&name=LS%20KgSecondChances&dev=PhucDo
 Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json
 Name: LS KgSecondChances
+
+Package: com.phucdo.LSBendigo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSBendigo_1.0_iphoneos-arm.deb
+Size: 61932
+MD5sum: c690b431d0384379209771b66e56487b
+SHA1: 31810b7118f78b5a598fe2f7e3e4b29c5d7f954f
+SHA256: 2829f94306a4c665b18fdf0f81a45ab47713bc48a6213e9842799d5949e06710
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBendigo/SileoDepiction.json&name=LS%20Bendigo&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBendigo/SileoDepiction.json
+Name: LS Bendigo
+
+Package: com.phucdo.LSBendigo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSBendigo_1.0_iphoneos-arm64.deb
+Size: 61976
+MD5sum: d32b1a389d0e1ad6657cbdec373cf6cc
+SHA1: e525050aa8eb5de03bb0084e37750c1c8991e3de
+SHA256: b300f76c301091ceebebabd7df0cabcfa45e3b6bfc566c59c6f741d8a01d131b
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBendigo/SileoDepiction.json&name=LS%20Bendigo&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBendigo/SileoDepiction.json
+Name: LS Bendigo
