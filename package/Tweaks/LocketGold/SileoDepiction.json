@@ -78,14 +78,14 @@
                 },                
                 {
                     "title":"Tweak Depiction",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#fb6b3c",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/LocketGold/SileoDepiction.json&name=PUBG%20RSD&dev=CyberCat",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#fb6b3c",
                     "action":"https://twitter.com/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
@@ -112,6 +112,6 @@
             ]
         }
     ],
-    "tintColor": "#03a5aa",
+    "tintColor": "#fb6b3c",
     "minVersion": "0.1"
 }

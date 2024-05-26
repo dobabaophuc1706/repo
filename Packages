@@ -85,16 +85,16 @@ Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
 Name: LatchKey
 
 Package: com.pubg.rsdmods
-Version: 10.5
+Version: 12.0
 Architecture: iphoneos-arm
 Maintainer: CyberCat
 Installed-Size: 1620
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.pubg.rsdmods_1.2.2_iphoneos-arm.deb
-Size: 5512980
-MD5sum: cdc900a6c538bbb98df38ba8e4592a75
-SHA1: 21d2898621eb20712006d5602b7a905bd6cbf769
-SHA256: 78a4bd2c6adfa7518ba60ec583d0f6a7e9e3fd51873fb17b732460205fa497e1
+Size: 5514324
+MD5sum: 9406392bd9066f63b571916e5c9e6d2f
+SHA1: f964a6c919fc8a22a4de799f9e5432eb5efd9a19
+SHA256: ab888cc8c0a7bb3bb4a184d7ef9d2086d64a2108c68663ff41e7fbcd285aa559
 Section: Tweaks
 Description: PUBG hack for IOS.
 Author: CyberCat
@@ -104,16 +104,16 @@ Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/S
 Name: PUBG RSDMODS
 
 Package: com.pubg.rsdmods
-Version: 10.5
+Version: 12.0
 Architecture: iphoneos-arm64
 Maintainer: CyberCat
 Installed-Size: 1620
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.pubg.rsdmods_1.2.2_iphoneos-arm64.deb
-Size: 5513080
-MD5sum: 8f26999d5bbe5354fcb2115aa8de4ec0
-SHA1: 5818d4b5841ff7b93ce2fb5d334991519777caee
-SHA256: 63682c2d5f22e361fedbd2a96f9a4c28b52f3efe31044f104800b7401bd1cd9d
+Size: 5514848
+MD5sum: 60440258600ddf9b232aab0a6d48d9d7
+SHA1: a156202fd6fff76a57ddea99d34f5831f2beb52f
+SHA256: 0ac785c23fdf86c40867ded29c3163786c12c11ece7427131353849401c3505b
 Section: Tweaks
 Description: PUBG hack for IOS.
 Author: CyberCat
