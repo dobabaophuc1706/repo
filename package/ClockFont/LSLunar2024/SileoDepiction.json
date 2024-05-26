@@ -99,15 +99,22 @@
                 },                
                 {
                     "title":"Tweak Depiction",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#8b43f3",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/SileoDepiction.json&name=LS%20Lunar%202024&dev=Phuc%20Do",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#8b43f3",
                     "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#8b43f3",
+                    "action":"https://paypal.me/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -133,6 +140,6 @@
             ]
         }
     ],
-    "tintColor": "#03a5aa",
+    "tintColor": "#8b43f3",
     "minVersion": "0.1"
 }

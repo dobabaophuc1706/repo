@@ -78,15 +78,22 @@
                 },                
                 {
                     "title":"Tweak Depiction",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#835ba2",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json&name=AE%20Television&dev=PhucDo",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#835ba2",
                     "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#835ba2",
+                    "action":"https://paypal.me/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -113,6 +120,6 @@
             ]
         }
     ],
-    "tintColor": "#03a5aa",
+    "tintColor": "#835ba2",
     "minVersion": "0.1"
 }

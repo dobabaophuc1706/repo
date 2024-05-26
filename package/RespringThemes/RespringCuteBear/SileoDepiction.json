@@ -78,15 +78,22 @@
                 },                
                 {
                     "title":"Tweak Depiction",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#536bf3",
                     "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json&name=Respring%20Cute%20Bear&dev=PhucDo",
                     "class": "DepictionTableButtonView"
                 },
                 {
                    
                     "title":"Twitter",
-                    "tintColor":"#1da1f2",
+                    "tintColor":"#536bf3",
                     "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#536bf3",
+                    "action":"https://paypal.me/dobabaophuc",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -113,6 +120,6 @@
             ]
         }
     ],
-    "tintColor": "#03a5aa",
+    "tintColor": "#536bf3",
     "minVersion": "0.1"
 }
