@@ -1332,11 +1332,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskElio_1.0_iphoneos-arm.deb
-Size: 103396
+Size: 98256
 Depends: com.spark.snowboard.effects
-MD5sum: e5e5dfe3249bc9dec04dc2120aea6208
-SHA1: b358b2fd4e0829ec79a9769b2b8510eb7e78895f
-SHA256: 5d56d7d57c3e7f436595da5ce330eae783d61e6cfa9e79a896e8959081b5d98e
+MD5sum: f63d286dc8a0c39dd0f0ef5554ea12bf
+SHA1: cae86afca0caff7858816b541c3ba221f86b0d6a
+SHA256: 20ad4ff88c18b3a16d634338247e25653e9d9e3d606af7336e90de0fa7d13560
 Section: Mask & AE
 Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
 Author: Phuc Do
@@ -1350,11 +1350,11 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Filename: ./debs/com.phucdo.MaskElio_1.0_iphoneos-arm64.deb
-Size: 103500
+Size: 98356
 Depends: com.spark.snowboard.effects
-MD5sum: 793b31a6ef02459ca7266f0351785e84
-SHA1: e42689d15064dd5b5f6fcfcaf3f954ff4a34ab9f
-SHA256: 641f6e9ef6cc986bbcab4d143d41e38e2e30d970ca3674051adf911b209e73b2
+MD5sum: 167371b35657afc03ed84a8cd12e3911
+SHA1: ce8b5f4195090236ac0c89b4619ff09f2006b9ae
+SHA256: e240a8124984dfe0faf7c6ea77a1c25e8d5ba45a68958752d0d68b74936d5953
 Section: Mask & AE
 Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
 Author: Phuc Do
