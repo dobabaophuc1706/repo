@@ -1,0 +1,666 @@
+
+.contentWrapper {
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF; /*fallback for IE*/
+    background-color: var(--bg-color);
+}
+.mainWrapper {
+    max-width: 100vw;
+    overflow: hidden;
+}
+
+#bannerImage {
+    background-image: linear-gradient(#034C4F, #36DBCB);
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-width: 100%;
+    min-height: 200px;
+    z-index: -999;
+}
+
+/*Navbar Stuff*/
+.navbar {
+    z-index: 999;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #c5c5c5; /*fallback for IE*/
+    border-bottom-color: var(--border-color);
+    opacity: 0;
+    background-color: #FEFEFE; /*fallback for IE*/
+    background-color: var(--navbar-bg-color);
+    top: 0;
+    left: 0;
+    position: fixed;
+    min-width: 100%;
+    min-height: 45px;
+}
+
+/*Navbar Buttons*/
+.leftNavButton, .rightNavButton {
+    color: #2CB1BE; /*fallback for IE*/
+    color: var(--tint-color);
+    position: absolute;
+    top: 22px;
+    transform: translateY(-50%);
+}
+.leftNavButton {
+    font-weight: normal;
+    font-size: 14pt;
+    padding-left: 20px;
+    left: 10px;
+}
+.rightNavButton {
+    right: 20px;
+}
+.rightNavButton .priceButton {
+    cursor: pointer;
+}
+.rightNavButton .priceButton:hover {
+    opacity: .8;
+}
+#bannerWrapper {
+    min-height: 200px;
+}
+#bannerWrapper .leftNavButton, #bannerWrapper .rightNavButton {
+    z-index: -998;
+    position: fixed;
+    color: white;
+    -webkit-text-shadow: 10px 10px 22px 4px rgba(0,0,0,0.75);
+    -moz-text-shadow: 10px 10px 22px 4px rgba(0,0,0,0.75);
+    text-shadow: 10px 10px 22px 4px rgba(0,0,0,0.75);
+}
+#bannerWrapper .backArrow {
+    z-index: -998;
+    position: fixed;
+    background-color: white;
+}
+
+.changedNavbarItems {
+    opacity: 0;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+}
+
+.priceButton {
+    color: white;
+    background-color: #2CB1BE; /*fallback for IE*/ 
+    background-color: var(--tint-color);
+    font-weight: 700;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+}
+
+.backArrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    left: 0;
+    min-width: 20px;
+    min-height: 20px;
+    background-color: #2CB1BE; /*fallback for IE*/
+    background-color: var(--tint-color);
+    mask-image: url("assets/back.png");
+    -webkit-mask-image: url("assets/back.png");
+    mask-mode: alpha;
+    -webkit-mask-mode: alpha;
+    mask-size: cover;
+    -webkit-mask-size: cover;
+}
+.modifyButton {
+    z-index: 99999;
+    cursor: pointer;
+    top: 50%;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    right: 0;
+    position: absolute;
+    min-width: 25px;
+    min-height: 25px;
+    background-image: url("assets/modify.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#navbarTweakIcon {
+    border-radius: 7px;
+    position: absolute;
+    min-width: 30px;
+    min-height: 30px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*Top Header Section*/
+.headerSection {
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+}
+#tweakIcon {
+    top: 50%;
+    transform: translateY(-50%);
+    left: 15px;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tweakName {
+    margin: 0;
+    font-size: 16pt;
+    white-space: nowrap;
+    max-width: calc(100% - 90px);
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+#developerName {
+    max-width: calc(100% - 80px);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 5px 0 0 0;
+    font-weight: 400;
+    font-size: 12pt;
+    color: #8F8E94; /*fallback for IE*/
+    color: var(--light-text-color);
+}
+.headerSection .priceButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20px;
+}
+
+/*Header Pill Selector (Details/Changelog)*/
+.headerPillSelector {
+    background-color: var(--bg-color);
+    visibility: hidden;
+    position: relative;
+    min-height: 30px;
+    padding-top: 10px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #c5c5c5; /*fallback for IE*/
+    border-bottom-color: var(--border-color);
+}
+.pillText {
+    white-space: nowrap;
+    left: 50%;
+    cursor: pointer;
+    padding-bottom: 10px;
+    transform: translateX(-50%);
+    position: absolute;
+    color: #958E80; /*fallback for IE*/
+    color: var(--medium-text-color);
+    font-weight: 500;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+}
+.pillSelectorLine {
+    left: 25%;
+    min-width: 100px;
+    min-height: 3px;
+    background-color: #2CB1BE; /*fallback for IE*/
+    background-color: var(--tint-color);
+    position: absolute;
+    bottom: 0;
+    transform: translateX(-50%);
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+}
+
+/*Screenshots*/
+.DepictionScreenshotsView {
+    max-width: 100%;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    white-space: nowrap;
+    object-fit: contain;
+}
+.screenshot {
+    cursor: pointer;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+/*Markdown Style*/
+h1 {
+    font-size: 18pt;
+}
+a {
+    color: #2CB1BE; /*fallback for IE*/
+    color: var(--tint-color);
+    text-decoration: none;
+}
+
+/*Sections that hold content*/
+.tabContent {
+    display: none;
+}
+
+/*Padded Views*/
+.DepictionSubheaderView, .DepictionHeaderView, .DepictionMarkdownView, .DepictionTableView {
+    margin: 18px;
+    overflow: hidden;
+}
+
+.DepictionMarkdownView p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.DepictionLabelView {
+    font-size: 11pt;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.DepictionHeaderView {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.DepictionImageView {
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.DepictionSeparatorView {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 1px;
+    max-width: calc(100% - 36px);
+    background-color: #c5c5c5; /*fallback for IE*/
+    background-color: var(--border-color);
+}
+
+/*Generic Error View*/
+#unsupportedView {
+    font-size: 10pt;
+    background-image: url(assets/error.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgba(0,0,0,.2);
+    padding: 10px 10px 10px 45px;
+    box-sizing: border-box;
+    max-width: calc(100% - 36px);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/*Table Views*/
+.depictionTable {
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: fixed;
+    width: calc(100% - 32px);
+}
+.depictionTable td {
+    max-width: 50%;
+    width: 50%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 50%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.depictionTable tr td:first-child {
+        color: #8F8E94; /*fallback for IE*/
+        color: var(--light-text-color);
+    }
+.depictionTable tr td:last-child {
+    text-align: right;
+}
+
+/*Table Button Views*/
+.DepictionTableButtonView {
+    position: relative;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin-left: auto;
+    margin-right: auto;
+    width: calc(100% - 36px);
+}
+.backwardsArrow {
+    transform: rotate(180deg) translateY(50%);
+    -ms-transform: rotate(180deg) translateY(50%);
+    position: absolute;
+    top: 50%;
+    right: 0;
+    min-width: 16px;
+    max-width: 16px;
+    min-height: 16px;
+    background-color: #2CB1BE; /*fallback for IE*/
+    background-color: var(--tint-color);
+    mask-image: url("assets/back.png");
+    -webkit-mask-image: url("assets/back.png");
+    mask-mode: alpha;
+    -webkit-mask-mode: alpha;
+    mask-size: cover;
+    -webkit-mask-size: cover;
+}
+.depictionButton {
+    min-width: 100%;
+}
+
+/*Modify Popup*/
+#modifyPopup {
+    visibility: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+    height: 100%;
+    width: 100vw;
+    transition: background-color 0.15s ease;
+    -webkit-transition: background-color 0.15s ease;
+    -moz-transition: background-color 0.15s ease;
+    -o-transition: background-color 0.15s ease;
+    -ms-transition: background-color 0.15s ease;
+}
+.popupButtonWrapper {
+    transform: translate(-50%, calc(100% + 8px));
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    width: calc(100% - 16px);
+    max-width: 900px;
+    transition: transform 0.3s ease;
+    -webkit-transition: transform 0.3s ease;
+    -moz-transition: transform 0.3s ease;
+    -o-transition: transform 0.3s ease;
+    -ms-transition: transform 0.3s ease;
+}
+.popupButton {
+    cursor: pointer;
+    border-color: #c5c5c5; /*fallback for IE*/
+    border-color: var(--border-color);
+    border-width: 1px;
+    border-bottom-style: solid;
+    padding: 15px;
+    font-size: 14pt;
+    font-weight: 500;
+    color: #2CB1BE; /*fallback for IE*/
+    color: var(--tint-color);
+    box-sizing: border-box;
+    text-align: center;
+    width: 100%;
+    background-color: #FFFFFF; /*fallback for IE*/
+    background-color: var(--bg-color);
+}
+.popupButton:hover {
+    filter: brightness(0.9);
+}
+.popupButtonWrapper .popupButton:first-child {
+    border-radius: 12px 12px 0 0;
+}
+.popupButtonWrapper .popupButton:nth-last-child(2) {
+    border-radius: 0 0 12px 12px;
+}
+.popupButtonWrapper .popupButton:last-child {
+    font-weight: 600;
+    margin-top: 10px;
+    border-radius: 12px;
+}
+
+/*Overlay Popup (Screenshot Large Preview / About Page / Settings) */
+#overlayPopup {
+    transform: translateY(100%);
+    background-color: #FFFFFF; /*fallback for IE*/
+    background-color: var(--bg-opacity-color);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999999;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    transition: transform 0.3s ease;
+    -webkit-transition: transform 0.3s ease;
+    -moz-transition: transform 0.3s ease;
+    -o-transition: transform 0.3s ease;
+    -ms-transition: transform 0.3s ease;
+}
+#overlayPopup h1:first-child {
+    top: 0;
+    left: 0;
+    padding: 45px 18px 18px 18px;
+    position: absolute;
+    font-size: 24pt;
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: #c5c5c5; /*fallback for IE*/
+    border-color: var(--border-color);
+    background-color: #FFFFFF; /*fallback for IE*/
+    background-color: var(--bg-color);
+}
+#overlayPopupContent, #aboutInfo, #configureSettings {
+    font-size: 12pt;
+    margin-top: 110px;
+    padding: 18px;
+}
+#aboutInfo, #configureSettings {
+    display: none;
+}
+.doneButton {
+    z-index: 999;
+    cursor: pointer;
+    color: #2CB1BE; /*fallback for IE*/
+    color: var(--tint-color);
+    position: absolute;
+    top: 22px;
+    transform: translateY(-50%);
+    font-weight: normal;
+    font-size: 14pt;
+    right: 22px;
+}
+.doneButton:hover {
+    opacity: .6;
+}
+.largerScreenshot {
+    margin: 0 !important;
+    display: block;
+    position: absolute;
+    top: calc(50% + 18px);
+    left: 50%;
+    min-height: calc(100vh - 75px);
+    transform: translate(-50%, -50%);
+}
+.largeZebraFix {
+    width: calc(100% - 20px);
+    max-width: 400px;
+    height: auto !important;
+}
+
+/*Wrapper for all content (excluding popups)*/
+#everythingWrapper {
+    transition: filter 0.15s ease;
+    -webkit-transition: filter 0.15s ease;
+    -moz-transition: filter 0.15s ease;
+    -o-transition: filter 0.15s ease;
+    -ms-transition: filter 0.15s ease; 
+}
+.blurred {
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
+/*Social Icons - For About Page*/
+.socialLink {
+    border-width: 1px;
+    border-color: #c5c5c5; /*fallback for IE*/
+    border-color: var(--border-color);
+    border-top-style: solid;
+    position: relative;
+    min-height: 65px;
+    max-height: 65px;
+    background-size: 65px;
+    background-repeat: no-repeat;
+    background-position: 0 center;
+    width: 100%;
+    display: block;
+}
+.socialLink:last-child {
+    border-bottom-style: solid;
+}
+.socialLink p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 90px;
+    transform: translateY(-50%);
+    line-height: normal;
+}
+    .socialLink p span {
+        color: #958E80; /*fallback for IE*/
+        color: var(--medium-text-color);
+    }
+
+/*Settings*/
+.settingsCapsText {
+    text-transform: uppercase;
+    font-size: 8pt;
+    margin-bottom: 8px;
+    color: #958E80; /*fallback for IE*/
+    color: var(--medium-text-color);
+}
+.settingsTextField {
+    background: none;
+    width: calc(100% - 150px);
+    float: right;
+    border: none;
+    text-align: right;
+}
+.settingsButtonCell .settingsTableCell {
+    color: #2CB1BE; /*fallback for IE*/
+    color: var(--tint-color) !important;
+    text-align: center;
+    cursor: pointer;
+}
+.settingsNotEditable {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    opacity: .65;
+}
+.settingsNotEditable * {
+    color: #8F8E94; /*fallback for IE*/
+    color: var(--light-text-color) !important;
+    cursor: not-allowed !important;
+}
+
+/*Settings Toggles*/
+.settingsTableCell {
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    width: 100%;
+    border-width: 1px;
+    border-color: #c5c5c5; /*fallback for IE*/
+    border-color: var(--border-color);
+    border-top-style: solid;
+}
+.settingsTableArray .settingsTableCell:last-child {
+    border-bottom-style: solid;
+}
+.toggleSwitch {
+    border-radius: 38px;
+    border-style: solid;
+    border-color: #8F8E94; /*fallback for IE*/
+    border-color: var(--light-text-color);
+    border-width: 1px;
+    box-sizing: border-box;
+    max-width: 56px;
+    min-width: 56px;
+    min-height: 33px;
+    max-height: 33px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 7px;
+    transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+}
+.enabledToggle {
+	background: #6EDC5F;
+	border-color: rgba(255,255,255,0);
+}
+.toggleSwitchKnob {
+	z-index: 199;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.25),
+                -3px 3px 5px rgba(0, 0, 0, 0.25);
+	position: absolute;
+	top: 1px;
+	left: 1px;
+	max-width: 29px;
+	min-width: 29px;
+	min-height: 29px;
+	max-height: 29px;
+	background-color: white;
+	border-radius: 50%;
+	transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+}
+.enabledToggle .toggleSwitchKnob {
+	left: 24px;
+}
+
+/* Error Warning at top of Depiction */
+.errorWarning {
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #f74848;
+    color: white;
+    width: 100%;
+    text-align: center;
+}

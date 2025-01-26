@@ -1,0 +1,154 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/Fonts/SileoBanner.png",
+    "tintColor": "#c34b3b",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                
+                {
+                    "itemCornerRadius":8,
+                    "itemSize":"{195, 385}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/1.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/2.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/3.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/3.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/4.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/4.png"
+                        }
+                    ],
+                    "ipad":{
+                        "itemCornerRadius":9,
+                        "itemSize":"{320, 550.8266666666667}",
+                        "screenshots":[
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/1.png"
+                            },
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/2.png"
+                            },
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/3.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/3.png"
+                            },
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/4.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/4.png"
+                            }
+                        ],
+                        "class":"DepictionScreenshotView"
+                    },
+                    "class":"DepictionScreenshotsView"
+                },
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+            
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# Cocon Pro Font for iOS 14-16\r\n\r\n# How to Apply the Font\r\nFor jailbroken devices, you will need Snowboard theme engine and Snowboard Fonts Extension from SparkDev's repo.\r\n\r\n# What's in it\r\n- ADTTime.ttc\r\n- Keycaps.ttc\r\n- KeycapsPad.ttc\r\n- PhoneKeyCaps.ttf\r\n- SFUI.ttf\r\n- SFUISoft.ttc",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Information"
+                },
+                {
+                    "text": "Free",
+                    "title": "License",
+                    "class": "DepictionTableTextView"
+                },
+                
+                 {
+                    "text": "Phuc Do",
+                    "title": "Maintainer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "p0s3id0n",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Fonts",
+                    "title": "Section",
+                    "class": "DepictionTableTextView"
+                },               
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Sources"
+                },                
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#c34b3b",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro&dev=p0s3id0n",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Twitter",
+                    "tintColor":"#c34b3b",
+                    "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#c34b3b",
+                    "action":"https://paypal.me/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://dobabaophuc1706.github.io/repo/CydiaIcon.png",
+                    "width": 40,
+                    "height": 40,
+                    "alignment": 1,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
+                  },
+                  {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }               
+            ]
+        }
+    ],
+    "minVersion": "0.1"
+}

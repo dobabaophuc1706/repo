@@ -1,0 +1,135 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/LSUI/SileoBanner.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                
+                {
+                    "itemCornerRadius":8,
+                    "itemSize":"{195, 385}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/1.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/2.png"
+                        }
+                    ],
+                    "ipad":{
+                        "itemCornerRadius":9,
+                        "itemSize":"{320, 550.8266666666667}",
+                        "screenshots":[
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/1.png"
+                            },
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/2.png"
+                            }
+                        ],
+                        "class":"DepictionScreenshotView"
+                    },
+                    "class":"DepictionScreenshotsView"
+                },
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+            
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# LS UI Slender \r\n### Use Snowboard UI Extension to enable LS UI.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Information"
+                },
+                {
+                    "text": "Free",
+                    "title": "License",
+                    "class": "DepictionTableTextView"
+                },
+                
+                 {
+                    "text": "Phuc Do",
+                    "title": "Maintainer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Phuc Do",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "LS UI",
+                    "title": "Section",
+                    "class": "DepictionTableTextView"
+                },               
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Sources"
+                },                
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#5b7b83",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/SileoDepiction.json&name=LS%20UI%20Slender&dev=PhucDo",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Twitter",
+                    "tintColor":"#5b7b83",
+                    "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#5b7b83",
+                    "action":"https://paypal.me/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://dobabaophuc1706.github.io/repo/CydiaIcon.png",
+                    "width": 40,
+                    "height": 40,
+                    "alignment": 1,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
+                  },
+                  {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+                
+            ]
+        }
+    ],
+    "tintColor": "#5b7b83",
+    "minVersion": "0.1"
+}

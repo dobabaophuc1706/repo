@@ -1,0 +1,134 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/SettingThemes/SileoBanner.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                
+                {
+                    "itemCornerRadius":8,
+                    "itemSize":"{195, 385}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/1.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/2.png"
+                        }
+                    ],
+                    "ipad":{
+                        "itemCornerRadius":9,
+                        "itemSize":"{320, 550.8266666666667}",
+                        "screenshots":[
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/1.png"
+                            },
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/2.png"
+                            }
+                        ],
+                        "class":"DepictionScreenshotView"
+                    },
+                    "class":"DepictionScreenshotsView"
+                },
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+            
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# Glasklart Settings UI\r\n\r\n# How to Apply the Setting UI\r\nUse Snowboard Setting Icons Extension to enable Glasklart Settings UI\r\n\r\n# What's in it\r\n- More than 60 icons in this pack\r\n- Full Setting icons\r\n- Full Apple default apps",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Information"
+                },
+                {
+                    "text": "Free",
+                    "title": "License",
+                    "class": "DepictionTableTextView"
+                },
+                
+                 {
+                    "text": "Phuc Do",
+                    "title": "Maintainer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Phuc Do",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Setting SettingThemes",
+                    "title": "Section",
+                    "class": "DepictionTableTextView"
+                },               
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Sources"
+                },                
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#638b7b",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json&name=Glasklart%20Settings&dev=PhucDo",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Twitter",
+                    "tintColor":"#638b7b",
+                    "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#638b7b",
+                    "action":"https://paypal.me/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://dobabaophuc1706.github.io/repo/CydiaIcon.png",
+                    "width": 40,
+                    "height": 40,
+                    "alignment": 1,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
+                  },
+                  {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }               
+            ]
+        }
+    ],
+    "tintColor": "#638b7b",
+    "minVersion": "0.1"
+}

@@ -1,0 +1,125 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/ClockFont/SileoBanner.png",
+    "tintColor": "#8b43f3",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                
+                {
+                    "itemCornerRadius":8,
+                    "itemSize":"{195, 385}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/1.png"
+                        }
+                    ],
+                    "ipad":{
+                        "itemCornerRadius":9,
+                        "itemSize":"{320, 550.8266666666667}",
+                        "screenshots":[
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/1.png"
+                            }
+                        ],
+                        "class":"DepictionScreenshotView"
+                    },
+                    "class":"DepictionScreenshotsView"
+                },
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+            
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# LS Blue Dragon\r\n### Use AIM/AIM Pro tweak to enable the font clock.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Information"
+                },
+                {
+                    "text": "Free",
+                    "title": "License",
+                    "class": "DepictionTableTextView"
+                },
+                
+                 {
+                    "text": "Phuc Do",
+                    "title": "Maintainer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Phuc Do",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Clock Fonts",
+                    "title": "Section",
+                    "class": "DepictionTableTextView"
+                },               
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Sources"
+                },                
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#8b43f3",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/SileoDepiction.json&name=LS%20Blue%20Dragon&dev=Phuc%20Do",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Twitter",
+                    "tintColor":"#8b43f3",
+                    "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#8b43f3",
+                    "action":"https://paypal.me/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://dobabaophuc1706.github.io/repo/CydiaIcon.png",
+                    "width": 40,
+                    "height": 40,
+                    "alignment": 1,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
+                  },
+                  {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }                
+            ]
+        }
+    ],
+    "tintColor": "#8b43f3",
+    "minVersion": "0.1"
+}

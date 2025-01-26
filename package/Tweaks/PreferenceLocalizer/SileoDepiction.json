@@ -1,0 +1,127 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/Tweaks/SileoBanner.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                
+                {
+                    "itemCornerRadius":8,
+                    "itemSize":"{195, 385}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/1.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/2.png"
+                        }
+                    ],
+                    "ipad":{
+                        "itemCornerRadius":9,
+                        "itemSize":"{320, 550.8266666666667}",
+                        "screenshots":[
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/1.png"
+                            },
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/2.png"
+                            }
+                        ],
+                        "class":"DepictionScreenshotView"
+                    },
+                    "class":"DepictionScreenshotsView"
+                },
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+            
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# PreferenceLocalizer\r\n### A simple tool to help test tweak localizations in settings.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Information"
+                },
+                {
+                    "text": "Free",
+                    "title": "License",
+                    "class": "DepictionTableTextView"
+                },
+                
+                 {
+                    "text": "Phuc Do",
+                    "title": "Maintainer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "MTAC",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Tweaks",
+                    "title": "Section",
+                    "class": "DepictionTableTextView"
+                },               
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Sources"
+                },                
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#1da1f2",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/SileoDepiction.json&name=PreferenceLocalizer&dev=MTAC",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Twitter",
+                    "tintColor":"#1da1f2",
+                    "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://dobabaophuc1706.github.io/repo/CydiaIcon.png",
+                    "width": 40,
+                    "height": 40,
+                    "alignment": 1,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
+                  },
+                  {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }                
+            ]
+        }
+    ],
+    "tintColor": "#03a5aa",
+    "minVersion": "0.1"
+}

@@ -1,0 +1,141 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://dobabaophuc1706.github.io/repo/package/CC/SileoBanner.png",
+    "tintColor": "#e23333",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                
+                {
+                    "itemCornerRadius":8,
+                    "itemSize":"{195, 385}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/1.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/1.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/2.png",
+                            "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/2.png"
+                        }
+                    ],
+                    "ipad":{
+                        "itemCornerRadius":9,
+                        "itemSize":"{320, 550.8266666666667}",
+                        "screenshots":[
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/1.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/1.png"
+                            },
+                            {
+                                "accessibilityText":"Screenshot",
+                                "url":"https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/2.png",
+                                "fullSizeURL":"https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/2.png"
+                            }
+                        ],
+                        "class":"DepictionScreenshotView"
+                    },
+                    "class":"DepictionScreenshotsView"
+                },
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+            
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# Miumin UI Pro - CC theme for iOS \r\n### Designed and Developed to a tweak by Phuc Do! \n\n Miumin UI Pro is a theme designed with care to replace your Control Center's existing icons with well crafted and premium icons. \r\n\r\n### Features :\n\n*   Supports more than 20 icons in default CC  \n*   Changes CC wallpaper  \n*   Add blur affect for wallpaper \r\n\r\n### How to use this: \n\n*   Enable tweak  \n*   Customize your CC with wallpaper and affect   \n*   Respring to take affect \r\n\r\n### Please note that Miumin UI Pro **WON'T** work well with Jade or Akara! \r\n\r\n### Also, some modules **WON'T** work on IOS 14! \n\n ©phucdo 2024 - Thanks to @sugiuta and @straight-tamago - Please respect the authors!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Information"
+                },
+                {
+                    "text": "Free",
+                    "title": "License",
+                    "class": "DepictionTableTextView"
+                },
+                
+                 {
+                    "text": "Phuc Do",
+                    "title": "Maintainer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Phuc Do",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Control Center UI",
+                    "title": "Section",
+                    "class": "DepictionTableTextView"
+                },               
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {  
+                 "class":"DepictionHeaderView",
+                 "title":"Sources"
+                },                
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#e23333",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/SileoDepiction.json&name=Miumin%20UI%20Pro&dev=PhucDo",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Twitter",
+                    "tintColor":"#e23333",
+                    "action":"https://twitter.com/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title":"Tweak Depiction",
+                    "tintColor":"#e23333",
+                    "action":"https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/SileoDepiction.json&name=Miumin%20UI%20Pro&dev=PhucDo",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                   
+                    "title":"Support DEV",
+                    "tintColor":"#e23333",
+                    "action":"https://paypal.me/dobabaophuc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://dobabaophuc1706.github.io/repo/CydiaIcon.png",
+                    "width": 40,
+                    "height": 40,
+                    "alignment": 1,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
+                  },
+                  {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">PhucDo's Repo ✨</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+                
+            ]
+        }
+    ],
+    "minVersion": "0.1"
+}

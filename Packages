@@ -1,0 +1,1364 @@
+Package: com.misakaproject.macaron
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: straight-tamago
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
+Filename: ./debs/com.misakaproject.macaron_1.0.1_iphoneos-arm64.deb
+Size: 406768
+MD5sum: d97fb17ed0326d23c113519be56cc05a
+SHA1: 68657e00b2c2b1defcb82a68c17a7704208a9464
+SHA256: 64d28a2aa005209446ace4e0dfc9ba344e8d349c1e95795c52de0e0e28c99894
+Section: Tweaks
+Description: Displays a photo in the background of the dock.
+Author: straight-tamago
+Depiction: https://havoc.app/depiction/macaron
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Name: Macaron
+Sileodepiction: https://havoc.app/package/macaron/depiction.json
+
+Package: com.spark.snowboard.respringextension
+Version: 1.0.7~Beta3
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: mobilesubstrate, com.spark.snowboard, emt.paisseon.xinamineall
+Provides: com.spark.snowboard.respringextension (= 1.0.7~Beta3)
+Filename: ./debs/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
+Size: 41908
+MD5sum: 5216a53edc20c04c923706d05d210e23
+SHA1: 68ed49ad644dadb48f1cbcfedac63e028fec76bf
+SHA256: a815f5258652f3538da765559391b8f51fdf11f35bbfedbc8cbef98ef43072d9
+Section: Tweaks
+Description: Respring icon extension for SnowBoard
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.respringextension
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.respringextension
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Author: Spark
+Name: SnowBoard Respring Extension
+
+Package: emt.paisseon.xinamineall
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: mobilesubstrate, ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0), file, gawk, odcctools, ldid, com.tigisoftware.filza64bit (>= 4.0)
+Provides: emt.paisseon.xinamine (= 0.0.5)
+Filename: ./debs/emt.paisseon.xinamineall_1.8.2_iphoneos-arm64.deb
+Size: 71716
+MD5sum: 4c7f3ad082072d73f9e3a49749fd68a2
+SHA1: 787fce9fb05a7b0d58f38387faf7af791b21eb69
+SHA256: 086c89354062977cc566a00ff9f7adba3e2bf9354dd6971d00d2e0c2deabd393
+Section: Tweaks
+Description: Xinamine bundle. Includes linker, patcher, and 'chex' link checker, plus other supporting filza scripts.
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Author: Paisseon, Sudo, NoW4U2Kid
+Name: Xinam1ne All-in-One
+
+Package: ch.mdaus.latchkey
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/ch.mdaus.latchkey_2.3_iphoneos-arm64.deb
+Size: 5725804
+MD5sum: 20c2f3845e5b04241ca3be89004154d6
+SHA1: 13e59ebfd6dd834db932931f8b47c39cfe21e666
+SHA256: 1464e8d97548cf416d13d3befce7476a527c4afeb2643a81840ce521c902978b
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Name: LatchKey
+
+Package: ch.mdaus.latchkey
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Maxwell Dausch
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/ch.mdaus.latchkey_2.3_iphoneos-arm.deb
+Size: 5723864
+MD5sum: 0ef529e47da1a666af2ee3e72e64b10c
+SHA1: 73fb47ddb12cf791e0e77989a14b1ab93fe57b58
+SHA256: 3f0f1e91b8957230c59c9c3d9146cbfbe917b78528151aa27e2275c24f3f191a
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Name: LatchKey
+
+Package: com.pubg.rsdmods
+Version: 12.0
+Architecture: iphoneos-arm
+Maintainer: CyberCat
+Installed-Size: 1620
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.pubg.rsdmods_1.2.2_iphoneos-arm.deb
+Size: 5514324
+MD5sum: 9406392bd9066f63b571916e5c9e6d2f
+SHA1: f964a6c919fc8a22a4de799f9e5432eb5efd9a19
+SHA256: ab888cc8c0a7bb3bb4a184d7ef9d2086d64a2108c68663ff41e7fbcd285aa559
+Section: Tweaks
+Description: PUBG hack for IOS.
+Author: CyberCat
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/game.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json&name=PUBG%20RSD&dev=CyberCat
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json
+Name: PUBG RSDMODS
+
+Package: com.pubg.rsdmods
+Version: 12.0
+Architecture: iphoneos-arm64
+Maintainer: CyberCat
+Installed-Size: 1620
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.pubg.rsdmods_1.2.2_iphoneos-arm64.deb
+Size: 5514848
+MD5sum: 60440258600ddf9b232aab0a6d48d9d7
+SHA1: a156202fd6fff76a57ddea99d34f5831f2beb52f
+SHA256: 0ac785c23fdf86c40867ded29c3163786c12c11ece7427131353849401c3505b
+Section: Tweaks
+Description: PUBG hack for IOS.
+Author: CyberCat
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/game.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json&name=PUBG%20RSD&dev=CyberCat
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PUBG-RSD/SileoDepiction.json
+Name: PUBG RSDMODS
+
+Package: com.dell.locketpatch
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.dell.locketpatch_0.0.1_iphoneos-arm64.deb
+Size: 931636
+MD5sum: eea49a6a4fda7dcfa18b84d84429b38f
+SHA1: 03cc8946ca419d66d448e2b10effb36fd2bb1651
+SHA256: 60a3ca714e64357739fbb40d263a332a517e3ecb754ec17f9867eac71ae97bc1
+Section: Tweaks
+Description: Unlock Locket Gold
+Author: Dell <dvq273665536@gmail.com>
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/apps.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/LocketGold/SileoDepiction.json&name=PUBG%20RSD&dev=CyberCat
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/LocketGold/SileoDepiction.json
+Name: Locket Gold
+
+Package: com.phucdo.AppleSymbols
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AppleSymbols_1.0_iphoneos-arm.deb
+Size: 360456
+MD5sum: 5b38cf704ea446f1298235aa48e965e6
+SHA1: 35a3b6bd89cc5a546c8b92dcea39705db5d7508a
+SHA256: 51482832142d1b7f4aaadb45845bee85c6432433ef5dc30dd1910e5fee1e9b4d
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/AppleSymbols/SileoDepiction.json&name=AppleSymbols&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/AppleSymbols/SileoDepiction.json
+Name: Apple Symbols
+
+Package: com.phucdo.AppleSymbols
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AppleSymbols_1.0_iphoneos-arm64.deb
+Size: 360448
+MD5sum: 44b61e37e25f86359a2bac6553916ffe
+SHA1: 25249125a79b415a95c4728e2758ca3ffd503f5c
+SHA256: eebf889870cb1bf2925743cfdd0fbc1e4498d8a9f012e70b636902e2e061bf1d
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/AppleSymbols/SileoDepiction.json&name=AppleSymbols&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/AppleSymbols/SileoDepiction.json
+Name: Apple Symbols
+
+Package: com.phucdo.FontCoconPro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontCoconPro_1.0_iphoneos-arm.deb
+Size: 1116752
+MD5sum: 1ca9258e0787306c14da8c5e4c70c899
+SHA1: c59c6d1bb62aad75f3fd6fb6c8ba4cea4c21e99e
+SHA256: 7c74c79460b9ab917757a532ffb7e5f12696d30543357460a13f819aaa508106
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro%20100%&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json
+Name: Font Cocon Pro
+
+Package: com.phucdo.FontCoconPro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontCoconPro_1.0_iphoneos-arm64.deb
+Size: 1116484
+MD5sum: b91d3c2103cd2be90335e2b140a964b6
+SHA1: 21a252041203cc42fb84de828d11aa07267aa604
+SHA256: e155c1a06d81efe0c497ce5cd59ebaf75899220c9295bc1597bae3afdb4cd3c5
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro%20100%&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json
+Name: Font Cocon Pro
+
+Package: com.phucdo.FontCoconPro
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontCoconPro_1.1_iphoneos-arm.deb
+Size: 1116356
+MD5sum: 3763a818f0475799c917471249cd0fac
+SHA1: 93d6671fa38c6a981ab62a41273baf58c8b71929
+SHA256: 7cae04be91a6b2c1f9d6ab870e54a0222cdf7eaf444c7276acd273d859e213c4
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json
+Name: Font Cocon Pro
+
+Package: com.phucdo.FontCoconPro
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontCoconPro_1.1_iphoneos-arm64.deb
+Size: 1116376
+MD5sum: f6eb4f21dd87107ccd0b3003f60af2ed
+SHA1: a809b61418a354ea00c78d4799bd1d195e105bb0
+SHA256: f89fa4da0302f10e803e685cac198926b417393cd05c29b131b87379d59f5fa3
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json&name=Font%20Cocon%20Pro&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontCoconPro/SileoDepiction.json
+Name: Font Cocon Pro
+
+Package: com.phucdo.FontTrakyaRoundedED
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.FontTrakyaRoundedED_1.0_iphoneos-arm.deb
+Size: 1774364
+MD5sum: e7994f1889d331ba3276b4c29fa34bfe
+SHA1: 25d84915775a13b267bed2e9a9bf3ce03dbbec60
+SHA256: 25883082815da259df71ac205957f1e5a08047bf78054abb692675250f89e06a
+Section: Fonts
+Description: Font edition by YangJiii only support iOS 16 and up.
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/SileoDepiction.json&name=Font%20Trakya%20Rounded%20Edition&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/SileoDepiction.json
+Name: Font Trakya Rounded Edition
+
+Package: com.phucdo.FontTrakyaRoundedED
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.FontTrakyaRoundedED_1.0_iphoneos-arm64.deb
+Size: 1772268
+MD5sum: f4f69a07bb9d67d2f00fa4064c40d0c8
+SHA1: 1b59608bbc6313315f06d6a6a00e2176e10f4d58
+SHA256: 21b47519226d262c75e35e70bf49b701f3ce66c573af63ccc9f88ab3d891cf47
+Section: Fonts
+Description: Font edition by YangJiii only support iOS 16 and up.
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/SileoDepiction.json&name=Font%20Trakya%20Rounded%20Edition&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontTrakyaRoundedED/SileoDepiction.json
+Name: Font Trakya Rounded Edition
+
+Package: com.phucdo.FontEvolve
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontEvolve_1.0_iphoneos-arm64.deb
+Size: 768540
+MD5sum: 78aef1b5a8605d636112e854b3ebe3fc
+SHA1: a172ad9695fe2c731d605cbefc073b177e5b0c6c
+SHA256: 00b79fd4b58cf1c6d8f63723f2c7c71aa0637abe87f186f0ae04be7735b313bf
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontEvolve/SileoDepiction.json&name=Font%20Evolve&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontEvolve/SileoDepiction.json
+Name: Font Evolve
+
+Package: com.phucdo.FontEvolve
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontEvolve_1.0_iphoneos-arm.deb
+Size: 768356
+MD5sum: 7ad075a65330b333b0a5ae831b03cf29
+SHA1: e60c0335c148a1d22a9f033fd0228299da84cadf
+SHA256: 29f68ae67c1ffe748e879ca7b16cc758db7dd2a590284c27f2adb8a8b53e35d4
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontEvolve/SileoDepiction.json&name=Font%20Evolve&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontEvolve/SileoDepiction.json
+Name: Font Evolve
+
+Package: com.phucdo.FontMissuLove
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontMissuLove_1.0_iphoneos-arm.deb
+Size: 779024
+MD5sum: cbcab204afee3467e7b928989a9496bc
+SHA1: 913668d6edd724bd6ab6fd628aadcbf38f5d6f74
+SHA256: cb0fc2b16667f6d42232b840a3fa2f34dfecc570efacf6123fe7cfd016c506a5
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontMissuLove/SileoDepiction.json&name=Font%20Missu%20Love&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontMissuLove/SileoDepiction.json
+Name: Font Missu Love
+
+Package: com.phucdo.FontMissuLove
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontMissuLove_1.0_iphoneos-arm64.deb
+Size: 777916
+MD5sum: d844ad1f0235790bcc7f03ac73056c61
+SHA1: 343364fd0b693b223d9eb6f7fc1d7f041f3f98b4
+SHA256: 5fe69ce1795d5c620afbe9f62e409319ca724a37b317777387241fb254ae87b1
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontMissuLove/SileoDepiction.json&name=Font%20Missu%20Love&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontMissuLove/SileoDepiction.json
+Name: Font Missu Love
+
+Package: com.phucdo.FontArisima
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontArisima_1.0_iphoneos-arm.deb
+Size: 1012944
+MD5sum: c254e78a42396ff74dae5eeadfbf2086
+SHA1: 8d8cb0e7a2bcb283aa6989cdf57631e45ac3a8f2
+SHA256: 1b2222db42f39b1f542277d654ef2b37f13244b0ff80b684b103c7e1b6dc5839
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontArisima/SileoDepiction.json&name=Font%20Arsima&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontArisima/SileoDepiction.json
+Name: Font Arisima
+
+Package: com.phucdo.FontArisima
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontArisima_1.0_iphoneos-arm64.deb
+Size: 1014040
+MD5sum: 2965056a31bc15344e0a8551a157fabf
+SHA1: 6d00902c6eeeff77b2f4ee7b0459611beb16b679
+SHA256: 6c413a5d3962dd5e9351007495907db180a2962c3a3bec533b543b12bc848479
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontArisima/SileoDepiction.json&name=Font%20Arsima&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontArisima/SileoDepiction.json
+Name: Font Arisima
+
+Package: com.phucdo.HuiFontJP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.HuiFontJP_1.0_iphoneos-arm.deb
+Size: 5424040
+MD5sum: d53c9bea6dbfa785a66273acf894be48
+SHA1: 8118ee5d9270c33a6135519ac7570ec152c2f65c
+SHA256: d58f628bebbd96d79d236b9ac6283b89f3c707b7fffcb9090d09a55de3fea8bb
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: straight-tamago
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/HuiFont/SileoDepiction.json&name=ふい字&dev=straight-tamago
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/HuiFont/SileoDepiction.json
+Name: ふい字 - HuiFont
+
+Package: com.phucdo.HuiFontJP
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.HuiFontJP_1.0_iphoneos-arm64.deb
+Size: 5421404
+MD5sum: 171f7d26defcc7e2f7d9b00be382cfa2
+SHA1: 440ccc7d260123ba747ac9aee5a76a011028b10e
+SHA256: 56aa9b5bd588a8a2135251321054d869982b901fd25ff0a61722c3404c522ba6
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: straight-tamago
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/HuiFont/SileoDepiction.json&name=ふい字&dev=straight-tamago
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/HuiFont/SileoDepiction.json
+Name: ふい字 - HuiFont
+
+Package: com.phucdo.LSBlueDragon
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSBlueDragon_1.0_iphoneos-arm64.deb
+Size: 17200
+MD5sum: e852182cd62cb94f533ca35fbd8587d1
+SHA1: 76dad14bee9be9af92cc696df02de2cd214ae32f
+SHA256: 89f8ae3cce3396bc70d62bf009e986a5ea939e2f5b8b9d19b653458503c0657f
+Section: Clock Fonts
+Description: Use AIM/AIM Pro tweak to enable the font clock.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/SileoDepiction.json&name=LS%20Blue%20Dragon&dev=Phuc%20Do
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/SileoDepiction.json
+Name: LS Blue Dragon
+
+Package: com.phucdo.LSBlueDragon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSBlueDragon_1.0_iphoneos-arm.deb
+Size: 17172
+MD5sum: aefcb67c46439e7fb655a5bb5bc776f9
+SHA1: 135b7754b99c270284f3c156b1d1a9214c30dd9c
+SHA256: ab5505b55b32cf1b44304266510bc331116fa0ef584ed7c939006df529fb49e3
+Section: Clock Fonts
+Description: Use AIM/AIM Pro tweak to enable the font clock.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/SileoDepiction.json&name=LS%20Blue%20Dragon&dev=Phuc%20Do
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBlueDragon/SileoDepiction.json
+Name: LS Blue Dragon
+
+Package: com.phucdo.LSSpaceQuest
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSSpaceQuest_1.0_iphoneos-arm.deb
+Size: 47360
+MD5sum: 472a9b1957b062c5e7dcbc6f6cee07c1
+SHA1: 79149a9ec7591bd853085d92724742682ed57135
+SHA256: fd6ce7508b72154092b7fc6018d090f7187749c5026da613bbf31a3d566a3170
+Section: Clock Fonts
+Description: Use AIM/AIM Pro tweak to enable the font clock.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSSpaceQuest/SileoDepiction.json&name=LS%20Space%20Quest&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSSpaceQuest/SileoDepiction.json
+Name: LS Space Quest
+
+Package: com.phucdo.LSSpaceQuest
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSSpaceQuest_1.0_iphoneos-arm64.deb
+Size: 47468
+MD5sum: db4ac51c4433f59dca4125d1b19f1dee
+SHA1: 11139a965dfd94fb3c6b190333f972f7ac6eeb78
+SHA256: 26bc01eee01e76e2b6f18ad34766643356f79dad8d59a0902b5e98b2f3e8936d
+Section: Clock Fonts
+Description: Use AIM/AIM Pro tweak to enable the font clock.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSSpaceQuest/SileoDepiction.json&name=LS%20Space%20Quest&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSSpaceQuest/SileoDepiction.json
+Name: LS Space Quest
+
+Package: com.phucdo.LSLunar2024
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSLunar2024_1.0_iphoneos-arm64.deb
+Size: 42448
+MD5sum: 798831e3093afd6d7ac367d2c83e97ed
+SHA1: 4b3a2feccb55384e554bd554f55c0c4bb70b276e
+SHA256: c95aa62b328ac6243825371e723c8647b910314d14b5f7431f6e36ef736848dc
+Section: Clock Fonts
+Description: Use AIM/AIM Pro tweak to enable the font clock.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/SileoDepiction.json&name=LS%20Lunar%202024&dev=Phuc%20Do
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/SileoDepiction.json
+Name: LS Lunar 2024
+
+Package: com.phucdo.LSLunar2024
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSLunar2024_1.0_iphoneos-arm.deb
+Size: 42424
+MD5sum: 57e9be4979716169f4683d04b25c20a8
+SHA1: d3df0fe658f480623ec96678a5653370ea76e085
+SHA256: 958facf6bb6c635b9c401d831bc1befa5ffd78b44c5346b69884b11005303ac3
+Section: Clock Fonts
+Description: Use AIM/AIM Pro tweak to enable the font clock.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/SileoDepiction.json&name=LS%20Lunar%202024&dev=Phuc%20Do
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSLunar2024/SileoDepiction.json
+Name: LS Lunar 2024
+
+Package: com.phucdo.LSComeback
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.LSComeback_1.0_iphoneos-arm64.deb
+Size: 91364
+MD5sum: aff00bf2f1c7fd94556cda545588fe69
+SHA1: 6206c3add69be03457baee00634bc8bdebc5fe39
+SHA256: 37287c7ad097c028a95d90d6bf8ae8ec9d0db5d44d01029e7c4a4a43666a3fe8
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSComeback/SileoDepiction.json&name=LS%20Comeback&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSComeback/SileoDepiction.json
+Name: LS Comeback
+
+Package: com.phucdo.LSComeback
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.LSComeback_1.0_iphoneos-arm.deb
+Size: 91332
+MD5sum: 65dd861a324a437cec86fdce3c5702f3
+SHA1: 50499447bf9df57c4b8f81d4346c69c004fac6d5
+SHA256: 1fa0535197f8e6a46e5fa600cb6a7851b9c52d2cd32aaf3f40ca3a5bb5762f18
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSComeback/SileoDepiction.json&name=LS%20Comeback&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSComeback/SileoDepiction.json
+Name: LS Comeback
+
+Package: com.phucdo.LSExciter
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.LSExciter_1.0_iphoneos-arm64.deb
+Size: 60648
+MD5sum: 87dc950723d53423ad943dfd5eb4cc1e
+SHA1: e36fe3c7da135d8d80e5992a70cfef253dc52790
+SHA256: cacd1328c99364da314635a8d9ab5d056a752b57ce900c9505334e4af225ff42
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSExciter/SileoDepiction.json&name=LS%20Exciter&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSExciter/SileoDepiction.json
+Name: LS Exciter
+
+Package: com.phucdo.LSExciter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.LSExciter_1.0_iphoneos-arm.deb
+Size: 60628
+MD5sum: cbb237ee6a73eeefbf59a56fa75405fd
+SHA1: c6f2dc08077680f495c0fca1dfb5fbbb7a70eb39
+SHA256: 6d9e5728861bb53a8c54b08693cc2e4b912e2fb3bd1038431710f753f92af168
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSExciter/SileoDepiction.json&name=LS%20Exciter&dev=p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSExciter/SileoDepiction.json
+Name: LS Exciter
+
+Package: com.phucdo.LSUIPlampy2.0
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSUIPlampy2.0_1.0_iphoneos-arm.deb
+Size: 42164
+MD5sum: ef10c9bbcb055cbf9f4e50d24bd78ecf
+SHA1: 2bc8cba815654b7904b8bf6d93ec38188b318d2a
+SHA256: 2431dc30d7c96688a87957cd23e840222d090ec7abdb00cd0221f8ffb3106d09
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUIPlampy2.0/SileoDepiction.json&name=LS%20UI%20Plampy%202.0&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUIPlampy2.0/SileoDepiction.json
+Name: LS UI Plampy 2.0
+
+Package: com.phucdo.LSUIPlampy2.0
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSUIPlampy2.0_1.0_iphoneos-arm64.deb
+Size: 42280
+MD5sum: 82c7d978763a61e17544a342ab3e95e6
+SHA1: eddd3b61b73742c67034f6459c5ebbae108f745e
+SHA256: 6e76e192e6b7683b67ae3ee7810549dfd6541277f296ee8479404abe994f57ae
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUIPlampy2.0/SileoDepiction.json&name=LS%20UI%20Plampy%202.0&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUIPlampy2.0/SileoDepiction.json
+Name: LS UI Plampy 2.0
+
+Package: com.phucdo.LSUIDeco
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSUIDeco_1.0_iphoneos-arm64.deb
+Size: 43544
+MD5sum: df7cd34f7c06faef8601861eb04256ed
+SHA1: 0990a0fef48b9ca251f441472d5c9a49e0a01714
+SHA256: fa19c395eddf35e004b4ba1ac6b37a9c5fb86369c9da1d8fc4608a1837f3310a
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUIDeco/SileoDepiction.json&name=LS%20UI%20Deco&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUIDeco/SileoDepiction.json
+Name: LS UI Deco
+
+Package: com.phucdo.LSUIDeco
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSUIDeco_1.0_iphoneos-arm.deb
+Size: 43508
+MD5sum: fae26ca2efb42b52d538dca23ee8f684
+SHA1: d440d9f4c6521c18921017171d60aaeebddaddae
+SHA256: 9fb537df18fef41cc75b2733c2b8fb51b0faca10c7f76d79fc8970076b8102a2
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUIDeco/SileoDepiction.json&name=LS%20UI%20Deco&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUIDeco/SileoDepiction.json
+Name: LS UI Deco
+
+Package: com.phucdo.LSUISharingan
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSUISharingan_1.0_iphoneos-arm64.deb
+Size: 65016
+MD5sum: c1b16150e9a45a04c5baff3d21ed7c01
+SHA1: b285e401abbdb5c9ecb7ec37fc73793d7976f17a
+SHA256: 118d7176a2ca8c135eb4b198078fe8556c7bd6178e36fc6213fd7218665cf573
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISharingan/SileoDepiction.json&name=LS%20UI%20Sharingan&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISharingan/SileoDepiction.json
+Name: LS UI Sharingan
+
+Package: com.phucdo.LSUISharingan
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSUISharingan_1.0_iphoneos-arm.deb
+Size: 64924
+MD5sum: abdc32e7555ee06548e420ab4cf93c11
+SHA1: 5b452b3c1d370d94cda910cb55d35afbad8a67d4
+SHA256: 7e4a0b02a21804d384ceb5206d35f104e39e2751cb9e8277881e298b800a689c
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISharingan/SileoDepiction.json&name=LS%20UI%20Sharingan&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISharingan/SileoDepiction.json
+Name: LS UI Sharingan
+
+Package: com.phucdo.LSUISlender
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSUISlender_1.0_iphoneos-arm64.deb
+Size: 47580
+MD5sum: b4bafe9a356227273de082299bd419ea
+SHA1: a436f73ce1a6a7ba048b8171530e4cac5816b129
+SHA256: 3a9bb20ec28bd4bec4d6fd1100ff413047670d5e8bc11e3d123685595c51b01e
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/SileoDepiction.json&name=LS%20UI%20Slender&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/SileoDepiction.json
+Name: LS UI Slender
+
+Package: com.phucdo.LSUISlender
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSUISlender_1.0_iphoneos-arm.deb
+Size: 47480
+MD5sum: dd0d78cb354bb1159c25bd699d2cef48
+SHA1: e99df470fc1188f24121a4e0ba22fcf10ef0326b
+SHA256: d5c5ca349e313ec88e84a03d0df5deed6b95433aa5c241e7f973bcadd01f6d98
+Section: LS UI
+Description: Use Snowboard UI Extension to enable LS UI.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/LSUI/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/SileoDepiction.json&name=LS%20UI%20Slender&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/LSUI/LSUISlender/SileoDepiction.json
+Name: LS UI Slender
+
+Package: com.phucdo.TrollColor
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.TrollColor_1.0_iphoneos-arm64.deb
+Size: 246316
+MD5sum: 0f665bdae599a6338eb54c36d015b603
+SHA1: 975fec8bd4e1a15680d176c97e4b0d784d597343
+SHA256: 449d1dec0e0b0447422df0b193b9bbdb32e81cecca038007e0ee71824b74a987
+Section: Themes
+Description: TrollStore icons collection.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json&name=TrollColor&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json
+Name: TrollColor
+
+Package: com.phucdo.TrollColor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.TrollColor_1.0_iphoneos-arm.deb
+Size: 246292
+MD5sum: 38aa5eca5e88b5cfd08e32a6fa1a49eb
+SHA1: d21c546bb1f5ec190750d4fe18b9cf1dca3c5d55
+SHA256: 1753122d134a250fe7d11526c5da24b8915d937fc9a39ea0e586c279a9921198
+Section: Themes
+Description: TrollStore icons collection.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json&name=TrollColor&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/TrollColor/SileoDepiction.json
+Name: TrollColor
+
+Package: com.phucdo.Glasklart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.Glasklart_1.0_iphoneos-arm.deb
+Size: 370152
+MD5sum: f2d2c56d83037f42a0fefd85fb4facce
+SHA1: 75e23e0eea9f2f2b79d296f0cf9248b812a1d637
+SHA256: 3962375510695b0ea56cdc5c140c4e6b92a0126ca7fe0f9607ca4738f51ec9e2
+Section: Setting Themes
+Description: Glasklart Settings UI.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/SettingThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json&name=Glasklart%20Settings&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json
+Name: Glasklart Settings
+
+Package: com.phucdo.Glasklart
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.Glasklart_1.0_iphoneos-arm64.deb
+Size: 370712
+MD5sum: 14a9c96f5e6951ceaf30d029f6c6af06
+SHA1: d25d575820dc29b5be6e6e83f9c4e34b28ebcf1c
+SHA256: f5432c7eab09158737ca60fbab51ae0de54195a3acfb0475809ec1d62efa53bd
+Section: Setting Themes
+Description: Glasklart Settings UI.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/SettingThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json&name=Glasklart%20Settings&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/SettingThemes/GlasklartSettings/SileoDepiction.json
+Name: Glasklart Settings
+
+Package: com.phucdo.miuminuipro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Installed-Size: 4676
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.phucdo.miuminuipro_1.0_iphoneos-arm64.deb
+Size: 3541248
+MD5sum: 9f2a91957801f5823f4c69f8d8862dd5
+SHA1: 21658d0ae385766c3e78707b5cdb5f81ba5aaa00
+SHA256: cb4df4fe513b134f2c6930181a59a821a5a492a158eaf32b18c2e739574f0564
+Section: Control Center UI
+Description: Miumin UI Pro is custumize CC on Jailbroken devices for iOS 15 & 16.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/CC/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/SileoDepiction.json&name=Miumin%20UI%20Pro&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/SileoDepiction.json
+Name: Miumin UI Pro
+
+Package: com.phucdo.miuminuipro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Installed-Size: 4676
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.phucdo.miuminuipro_1.0_iphoneos-arm.deb
+Size: 3541124
+MD5sum: b748b9342b2cc33a0e8f84feee20df1a
+SHA1: c526ae963d42b9355b73395eb9d5f44d25e816e7
+SHA256: 1f96b83e23407c157ead2d32f40aa30b348a5b2f527968654a1386d07714c2a3
+Section: Control Center UI
+Description: Miumin UI Pro is custumize CC on Jailbroken devices for iOS 15 & 16.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/CC/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/SileoDepiction.json&name=Miumin%20UI%20Pro&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/CC/MiuminUIPro/SileoDepiction.json
+Name: Miumin UI Pro
+
+Package: com.phucdo.MaskBlurBorder
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.MaskBlurBorder_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard.masks
+Size: 74208
+MD5sum: 119c53dfecc5615f99e0c6e96668ad97
+SHA1: 83575926f06d74a7935732420eba86dcb79e857d
+SHA256: afa5b5dcf79b555b41d341cce9f2ab3abe5f740895ac162a6b7dcee4f8d40500
+Section: Mask & AE
+Description: Use Snowboard Icon Masks Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskBlurBorder/SileoDepiction.json&name=Mask%20Blur%20and%20Border&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskBlurBorder/SileoDepiction.json
+Name: Mask Blur and Border
+
+Package: com.phucdo.MaskBlurBorder
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.MaskBlurBorder_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard.masks
+Size: 74248
+MD5sum: 78aff10315ebf06382df03fd30348282
+SHA1: 539f789a49d2160eeaaed815f251a544d028645c
+SHA256: b21dc207d81ea01d9a688d08330e829956c3107040caf86b787c6e30771b0758
+Section: Mask & AE
+Description: Use Snowboard Icon Masks Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskBlurBorder/SileoDepiction.json&name=Mask%20Blur%20and%20Border&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskBlurBorder/SileoDepiction.json
+Name: Mask Blur and Border
+
+Package: com.phucdo.MaskPainting
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.MaskPainting_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard.masks
+Size: 91740
+MD5sum: 23e56d37ffc8021ac00bc10e890ffa8f
+SHA1: 2e9ea73009a0f4aa312296c704297b08a0cb7741
+SHA256: 95af11119fcb2787b320dc5e17e58f854277195d9150d3ff948b91cb3c37e8b4
+Section: Mask & AE
+Description: Use Snowboard Icon Masks Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskPainting/SileoDepiction.json&name=Mask%20Painting&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskPainting/SileoDepiction.json
+Name: Mask Painting
+
+Package: com.phucdo.MaskPainting
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.MaskPainting_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard.masks
+Size: 91660
+MD5sum: 4d36668a6276c114e227186f428b9367
+SHA1: fadc2276f8c3de43693d2be72d47469f7ebda2b2
+SHA256: c589d765206a5dcf7e29f8e822de5273435c9ae2451a229de6921a8b3f0b523e
+Section: Mask & AE
+Description: Use Snowboard Icon Masks Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskPainting/SileoDepiction.json&name=Mask%20Painting&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskPainting/SileoDepiction.json
+Name: Mask Painting
+
+Package: com.mtac.prefs.localizer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.mtac.prefs.localizer_1.0_iphoneos-arm.deb
+Size: 8330
+MD5sum: 23d3343fa0a2c5881968e9bc5e2325a6
+SHA1: f5a0ee16cded37e99bba874c0e6b49c44104a475
+SHA256: 255ae1df4f386f92e526290c4817f6c6bb2507378d41381a94b4931b6cef76f7
+Section: Tweaks
+Description: Change language of Settings app
+Author: MTAC
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/SileoDepiction.json&name= PreferenceLocalizer&dev=MTAC
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/SileoDepiction.json
+Name: PreferenceLocalizer
+
+Package: com.mtac.prefs.localizer
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.mtac.prefs.localizer_1.0_iphoneos-arm64.deb
+Size: 8392
+MD5sum: d18333babfa46b709f8c692a43d267c9
+SHA1: 9604d1ea05ab8ed990e771c24bce6af97c3907c5
+SHA256: 17c0027a67b92b92a33690c8e15c338cebea302749703f3df3910642262c3ce1
+Section: Tweaks
+Description: Change language of Settings app
+Author: MTAC
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/SileoDepiction.json&name= PreferenceLocalizer&dev=MTAC
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/PreferenceLocalizer/SileoDepiction.json
+Name: PreferenceLocalizer
+
+Package: com.phucdo.AEWatchUltra
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AEWatchUltra_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard.effects
+Size: 112820
+MD5sum: 1319919e3ec245a844738dd2c1aeefd6
+SHA1: 97a211da155fc4ed0260ce282693441a6234e0ad
+SHA256: 5271376a9445fe34cbd83c391fb51005edb9e25a574c333f36fa00cb2cd3d8e1
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/AE.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json&name=AE%20Watch%20Ultra&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json
+Name: AE Watch Ultra
+
+Package: com.phucdo.AEWatchUltra
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AEWatchUltra_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard.effects
+Size: 112840
+MD5sum: dc9a4e849005c4fd739814262192fc8a
+SHA1: 4b7233ce6ea5035989fac4fcc10be92db5d3667b
+SHA256: b050497fb6dcc62117001ec9a91fd32c5d0debc1017dbe23b8b4fec024a77467
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/AE.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json&name=AE%20Watch%20Ultra&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AEWatchUltra/SileoDepiction.json
+Name: AE Watch Ultra
+
+Package: com.phucdo.FontModulusPro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontModulusPro_1.0_iphoneos-arm64.deb
+Size: 1523352
+MD5sum: 989e02f910628c994826fce468b1e146
+SHA1: ae3a0262d17ecc9de3a8db4c92e365ff3447c9e4
+SHA256: d8f1071e744fb8f115189d5780bdecf59133d05e80a294f9715906adde933c41
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: PD & p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontModulusPro/SileoDepiction.json&name=Font%20Modulus%20Pro&dev=PD%20&%20p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontModulusPro/SileoDepiction.json
+Name: Font Modulus Pro
+
+Package: com.phucdo.FontModulusPro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.FontModulusPro_1.0_iphoneos-arm.deb
+Size: 1523016
+MD5sum: 6a0f23644c45c68324710c7af7dcde0f
+SHA1: 8a9082e83c78e2cfa269ba033b61f380898eab04
+SHA256: 4eef539a6f7f4663b783b330a255f5b1e2fab95035b09e562dfcd3f1aab8e494
+Section: Fonts
+Description: Use Snowboard Font Extension to enable the font.
+Author: PD & p0s3id0n
+Icon: https://dobabaophuc1706.github.io/repo/package/Fonts/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Fonts/FontModulusPro/SileoDepiction.json&name=Font%20Modulus%20Pro&dev=PD%20&%20p0s3id0n
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Fonts/FontModulusPro/SileoDepiction.json
+Name: Font Modulus Pro
+
+Package: com.phucdo.VisionOSDock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.VisionOSDock_1.0_iphoneos-arm64.deb
+Depends: com.spark.snowboard.dock
+Size: 495436
+MD5sum: d7c3922b563c2a62e45fc868bad35896
+SHA1: 793a6682ffee820012e8497ca66014a56f8f045f
+SHA256: c4f8c69cb8d0e64d2da4eeb6079b4ec469538cdacf791c3f560786071a787369
+Section: Themes
+Description: Bring VisionOS to your dock!
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/VisionOSDock/SileoDepiction.json&name=VisionOS%20Dock&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/VisionOSDock/SileoDepiction.json
+Name: VisionOS Dock
+
+Package: com.phucdo.VisionOSDock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.VisionOSDock_1.0_iphoneos-arm.deb
+Depends: com.spark.snowboard.dock
+Size: 495308
+MD5sum: 2b205833f4fb03d657710eaa27b9600d
+SHA1: 1e2c0ddd5de1104840cc5e8db137c667ec35b7a0
+SHA256: 50aa30f9932a518cb7d8b3d8f5767ea19b6389e45e2ea62457d0a8e9bfb6541d
+Section: Themes
+Description: Bring VisionOS to your dock!
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Themes/VisionOSDock/SileoDepiction.json&name=VisionOS%20Dock&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Themes/VisionOSDock/SileoDepiction.json
+Name: VisionOS Dock
+
+Package: com.phucdo.Lock14Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.Lock14Pro_1.0_iphoneos-arm64.deb
+Depends: ch.mdaus.latchkey
+Size: 3052
+MD5sum: 3fe61cb589de96622e54541826eea6e6
+SHA1: 56e6d939bf4a0a3aed60ce6d97651c6f07a7e935
+SHA256: cbfcd51fa9c097cd00f9523c4d401ccf92e17a3e070f99794a3e6fd9cf232594
+Section: Lock Themes
+Description: Change your FaceID icon now!
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json&name=Lock%2014%20Pro&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json
+Name: Lock 14 Pro
+
+Package: com.phucdo.Lock14Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.Lock14Pro_1.0_iphoneos-arm.deb
+Depends: ch.mdaus.latchkey
+Size: 3020
+MD5sum: 573dbfb8da547895e85e0b3199e20289
+SHA1: 507a53e6cd38976f9eb10e67b91cbe4eee7367a1
+SHA256: 1c45956bac3d6afab4a636ebd05c834b219d19e21d296a78c45a8125b24cf7d2
+Section: Lock Themes
+Description: Change your FaceID icon now!
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json&name=Lock%2014%20Pro&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/Lock14Pro/SileoDepiction.json
+Name: Lock 14 Pro
+
+Package: com.phucdo.LockHandSomeDog
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LockHandSomeDog_1.0_iphoneos-arm.deb
+Size: 1477604
+MD5sum: 66f37a8e023c3cf404b9158692813c0c
+SHA1: b87302c29dad3574864c3046748649ec718ee48c
+SHA256: f3256d8cb60287225444e2fb20a68ce1f8f6b9cabbd907f32dd36281615157a3
+Section: Lock Themes
+Description: Change your FaceID icon now!
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json&name=Lock%20HandSome%20Dog&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json
+Name: Lock HandSome Dog
+
+Package: com.phucdo.LockHandSomeDog
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LockHandSomeDog_1.0_iphoneos-arm64.deb
+Size: 1477620
+MD5sum: dc2ee9a3e586c9764a3caf34e6a78736
+SHA1: 6acd5ff914ed343f872894056ccd5b065fb9898c
+SHA256: 71208ba1209d262f99f7ccf2b9f529d78f61564ce010c035e7717bf378ea955f
+Section: Lock Themes
+Description: Change your FaceID icon now!
+Author: YangJiii
+Icon: https://dobabaophuc1706.github.io/repo/package/Lock/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json&name=Lock%20HandSome%20Dog&dev=YangJiii
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Lock/LockHandSomeDog/SileoDepiction.json
+Name: Lock HandSome Dog
+
+Package: com.phucdo.RespringCuteBear
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.RespringCuteBear_1.0_iphoneos-arm64.deb
+Size: 92712
+MD5sum: 16dd834d7b70267999a9f4ceee5420bd
+SHA1: 1a368721001ea49214da70e18003b4d4bdca0e8b
+SHA256: 89697167c9533d35c78c352730b9805cc26d135bdfbd8b44ea587ae5e748f18d
+Section: Respring Themes
+Description: Use SnowBoard Respring Extension to enable respring theme!
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/RespringThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json&name=Respring%20Cute%20Bear&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json
+Name: Respring Cute Bear
+
+Package: com.phucdo.RespringCuteBear
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.RespringCuteBear_1.0_iphoneos-arm.deb
+Size: 92636
+MD5sum: 8ffb7c34abab0c89428c401d1ee20a6d
+SHA1: 0645a032af0e9f6fa173fc4fa5fe1db5203029ce
+SHA256: 173d8b2d5ca15bfb8542eba57c210e3d013156e7e1e7bcbfb8b77cbe8458986e
+Section: Respring Themes
+Description: Use SnowBoard Respring Extension to enable respring theme!
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/RespringThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json&name=Respring%20Cute%20Bear&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/RespringThemes/RespringCuteBear/SileoDepiction.json
+Name: Respring Cute Bear
+
+Package: com.phucdo.AETelevision
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AETelevision_1.0_iphoneos-arm.deb
+Size: 131496
+Depends: com.spark.snowboard.effects
+MD5sum: 5d3a35cf1d4765eb0165e203caf4e14c
+SHA1: b40b5d3d65eafb1710b9a1e2b254da8c7875535e
+SHA256: d8b9794425beabab3e5cc8cfa428c00d80aef45b893b39271db114eef637fc9a
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/AE.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json&name=AE%20Television&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json
+Name: AE Television
+
+Package: com.phucdo.AETelevision
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.AETelevision_1.0_iphoneos-arm64.deb
+Size: 131544
+Depends: com.spark.snowboard.effects
+MD5sum: 73b753a15f0faca982177d07e026fe6e
+SHA1: 2bf36c54a9ccb2277fbd179a776d4fd035f6dab4
+SHA256: 90b154ec70ed19229ed9f057cd7899e62c9594d9f1f02e7f6d210da7c5cdea84
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/AE.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json&name=AE%20Television&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/AETelevision/SileoDepiction.json
+Name: AE Television
+
+Package: com.phucdo.BadgeVSGhu3hi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.BadgeVSGhu3hi_1.0_iphoneos-arm.deb
+Size: 63472
+Depends: com.spark.snowboard, firmware (<< 16.0)
+MD5sum: a7f0e08ba4f3aaf19d7740c5b0ddf677
+SHA1: 9bb9dd66d9f5d6e44d1467a4a67e9ae597451e14
+SHA256: 1cd2c041ecbfe15a0d7d72f098716cce289130cffdfbf0aa4262c9c1de87bbd4
+Section: Badge Themes
+Description: Badge theme for ios 15 and older!
+Author: Gushi
+Icon: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json&name= Badge%20VS%20Gu3hi&dev=Gu3hi
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json
+Name: Badge VS Gu3hi
+
+Package: com.phucdo.BadgeVSGhu3hi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.BadgeVSGhu3hi_1.0_iphoneos-arm64.deb
+Size: 63500
+Depends: com.spark.snowboard, firmware (<< 16.0)
+MD5sum: bd02c39a580adaa7d855848881580978
+SHA1: be582c1fc1afc0a3694dbfb643ed1f9be9bd6b74
+SHA256: 2b49b1ee610cff3bba05e576b6aceb8059895a6df98401dfc5a99b927cccc84e
+Section: Badge Themes
+Description: Badge theme for ios 15 and older!
+Author: Gushi
+Icon: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json&name= Badge%20VS%20Gu3hi&dev=Gu3hi
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/BadgeThemes/BadgeVSGu3hi/SileoDepiction.json
+Name: Badge VS Gu3hi
+
+Package: com.phucdo.LSPoetsenOne
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.LSPoetsenOne_1.0_iphoneos-arm.deb
+Size: 74324
+MD5sum: a08e5a087cd0a3207d2c77859e117f78
+SHA1: f51dbb62bb97c5a73754ca915a29ee60f842ed98
+SHA256: 75b0b4569d553ffc183f9f3ebaa7adf9f8c1fb4ed66117edac5404d5281cd6b8
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json&name=LS%20Poetsen%20One&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json
+Name: LS Poetsen One
+
+Package: com.phucdo.LSPoetsenOne
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.phucdo.LSPoetsenOne_1.0_iphoneos-arm64.deb
+Size: 74400
+MD5sum: 495dadd1bd1066a74df91e67249dac02
+SHA1: 39350cc7e090543ac717046f4e2dfdac4cc61d7c
+SHA256: e4205e2246c5052bd6f78243144a5fd5f3a211dd5ad49064d985ea2be5846f88
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json&name=LS%20Poetsen%20One&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSPoetsenOne/SileoDepiction.json
+Name: LS Poetsen One
+
+Package: com.phucdo.LSKgSecondChances
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSKgSecondChances_1.0_iphoneos-arm64.deb
+Size: 86068
+MD5sum: c4f2214832945e6c29573f3ab69bcb6b
+SHA1: 01ae05c9f0a2629ab7941df4e41dc34217cfc714
+SHA256: 1063f2f121f08db4fcbd4a7d20527b56861504ef75b864975554968a3d57a85e
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json&name=LS%20KgSecondChances&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json
+Name: LS KgSecondChances
+
+Package: com.phucdo.LSKgSecondChances
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSKgSecondChances_1.0_iphoneos-arm.deb
+Size: 86064
+MD5sum: 68d3b957d15df11a096ea263a00e55d4
+SHA1: c83ba2bb90455e1d856d0ef975200b0983f9ba5e
+SHA256: 4fd37bd67968f6e213e177ccbc2e03d6078f888909149cd079b3308e0120d296
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json&name=LS%20KgSecondChances&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSKgSecondChances/SileoDepiction.json
+Name: LS KgSecondChances
+
+Package: com.phucdo.LSBendigo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSBendigo_1.0_iphoneos-arm.deb
+Size: 61932
+MD5sum: c690b431d0384379209771b66e56487b
+SHA1: 31810b7118f78b5a598fe2f7e3e4b29c5d7f954f
+SHA256: 2829f94306a4c665b18fdf0f81a45ab47713bc48a6213e9842799d5949e06710
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBendigo/SileoDepiction.json&name=LS%20Bendigo&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBendigo/SileoDepiction.json
+Name: LS Bendigo
+
+Package: com.phucdo.LSBendigo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.LSBendigo_1.0_iphoneos-arm64.deb
+Size: 61976
+MD5sum: d32b1a389d0e1ad6657cbdec373cf6cc
+SHA1: e525050aa8eb5de03bb0084e37750c1c8991e3de
+SHA256: b300f76c301091ceebebabd7df0cabcfa45e3b6bfc566c59c6f741d8a01d131b
+Section: Clock Fonts
+Description: Use Snowboard Font Extension to enable the clock font.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/ClockFont/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBendigo/SileoDepiction.json&name=LS%20Bendigo&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/ClockFont/LSBendigo/SileoDepiction.json
+Name: LS Bendigo
+
+Package: com.phucdo.MaskElio
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.MaskElio_1.0_iphoneos-arm.deb
+Size: 98256
+Depends: com.spark.snowboard.effects
+MD5sum: f63d286dc8a0c39dd0f0ef5554ea12bf
+SHA1: cae86afca0caff7858816b541c3ba221f86b0d6a
+SHA256: 20ad4ff88c18b3a16d634338247e25653e9d9e3d606af7336e90de0fa7d13560
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskElio/SileoDepiction.json&name=Mask%20Elio&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskElio/SileoDepiction.json
+Name: Mask Elio
+
+Package: com.phucdo.MaskElio
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Filename: ./debs/com.phucdo.MaskElio_1.0_iphoneos-arm64.deb
+Size: 98356
+Depends: com.spark.snowboard.effects
+MD5sum: 167371b35657afc03ed84a8cd12e3911
+SHA1: ce8b5f4195090236ac0c89b4619ff09f2006b9ae
+SHA256: e240a8124984dfe0faf7c6ea77a1c25e8d5ba45a68958752d0d68b74936d5953
+Section: Mask & AE
+Description: Use Snowboard Icon Effects Extension to enable the mask/AE.
+Author: Phuc Do
+Icon: https://dobabaophuc1706.github.io/repo/package/MaskAE/icon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskElio/SileoDepiction.json&name=Mask%20Elio&dev=PhucDo
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/MaskAE/MaskElio/SileoDepiction.json
+Name: Mask Elio
