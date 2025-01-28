@@ -1,3 +1,41 @@
+Package: com.phucdo.badgebreathing
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Phuc Do
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.phucdo.badgebreathing_0.0.1_iphoneos-arm.deb
+Size: 4084
+MD5sum: d3a793b72ef26f0775412172a4863bb3
+SHA1: 12e0bae4b49975cb767c1e01d15fcbf2bfb67c0e
+SHA256: b59536c9b225b86002ea94a5d9054b9975a387216d2144a4058a9243f6799e92
+Section: Tweaks
+Description: Make your application badge breathe!
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/BadgeBreathing/TweakIcon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/BadgeBreathing/SileoDepiction.json&name=Badge%20Breathing&dev=Phuc%20Do
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/BadgeBreathing/SileoDepiction.json
+Author: Phuc Do
+Name: Badge Breathing
+
+Package: com.phucdo.badgebreathing
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.phucdo.badgebreathing_0.0.1_iphoneos-arm64.deb
+Size: 4162
+MD5sum: 31bae05f8fc4936086ef06bcd31cde74
+SHA1: be7f4f3beb564ad0fb4cf5e2f4d1a8adb9b6bb2b
+SHA256: 6b97c0fc403531aaace5b26f2c545fa996f38e4005385ea9f81f231e76a0cd91
+Section: Tweaks
+Description: Make your application badge breathe!
+Icon: https://dobabaophuc1706.github.io/repo/package/Tweaks/BadgeBreathing/TweakIcon.png
+Depiction: https://dobabaophuc1706.github.io/repo/Sileo-Depiction-WebViews/?json=https://dobabaophuc1706.github.io/repo/package/Tweaks/BadgeBreathing/SileoDepiction.json&name=Badge%20Breathing&dev=Phuc%20Do
+Sileodepiction: https://dobabaophuc1706.github.io/repo/package/Tweaks/BadgeBreathing/SileoDepiction.json
+Author: Phuc Do
+Name: Badge Breathing
+
 Package: com.misakaproject.macaron
 Version: 1.0.1
 Architecture: iphoneos-arm64
