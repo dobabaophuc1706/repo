@@ -38,12 +38,7 @@
             
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Badge Breathing
-                    \r\n### This tweak can make your app badge feel more active :D
-                    \r\n\r\n### How to use this:
-                    \n\n*   Automatically active.
-                    \r\n\r\n### Source code:
-                    \n\n*   [Github](https://github.com/dobabaophuc1706/BadgeBreathing)",
+                    "markdown": "# Badge Breathing\r\n### This tweak can make your app badge feel more active :D\r\n\r\n### How to use this:\n\n*   Automatically active.\r\n\r\n### Source code:\n\n*   [Github](https://github.com/dobabaophuc1706/BadgeBreathing)",
                     "useSpacing": true
                 },
                 {
